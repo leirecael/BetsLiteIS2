@@ -710,10 +710,7 @@ public void open(boolean initializeMode){
 	
 	public Registered isLogin(String username, String password) {
 		Registered u = db.find(Registered.class, username);
-		if(u!=null) {
-			if(u.getPassword().equals(password)) return u;
-		}
-		return null;
+		return (u!=null && u.getPassword().equals(password))? u : null;
 	}
 	
 	public boolean isRegister(String username) {
@@ -984,9 +981,8 @@ public void open(boolean initializeMode){
 				resultB = false; 
 			}
 		}
-		if(resultB == false) {
-			return false;
-		}else if(new Date().compareTo(event.getEventDate())<0) {
+		if(!resultB) return false;
+		else if(new Date().compareTo(event.getEventDate())<0) {
 			TypedQuery<Quote> Qquery = db.createQuery("SELECT q FROM Quote q WHERE q.getQuestion().getEvent().getEventNumber() =?1", Quote.class);
 			Qquery.setParameter(1, event.getEventNumber()); 
 			List<Quote> listQUO = Qquery.getResultList();

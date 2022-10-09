@@ -51,7 +51,7 @@ public class AdminGUI extends JFrame {
 	private JButton jButtonEmaitzaIpini;
 	private JButton jButtonDesLogin;
 	private JFrame thisw;
-	private JButton btnNewButton_2;
+
 	private JButton btnGertaerakKopiatu;
 	
 	/**

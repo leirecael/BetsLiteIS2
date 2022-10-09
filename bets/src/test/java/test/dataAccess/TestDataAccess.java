@@ -8,9 +8,13 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import javax.persistence.TypedQuery;
+import javax.persistence.Query;
 
 import configuration.ConfigXML;
 import domain.Event;
+import domain.Question;
+import domain.Registered;
+import domain.Team;
 
 public class TestDataAccess {
 	protected  EntityManager  db;
@@ -95,6 +99,61 @@ public class TestDataAccess {
 		}
 		return null;
     }
+	
+	public Event addEventWithQuestion(String desc, Date d, String question, float qty, Team team1, Team team2) {
+		System.out.println(">> DataAccessTest: addEvent");
+		Event ev=null;
+			db.getTransaction().begin();
+			try {
+			    ev=new Event(desc,d, team1, team2);
+			    ev.addQuestion(question, qty);
+				db.persist(ev);
+				db.getTransaction().commit();
+			}
+			catch (Exception e){
+				e.printStackTrace();
+			}
+			return ev;
+    }
+	public boolean existQuestion(Event ev,Question q) {
+		System.out.println(">> DataAccessTest: existQuestion");
+		Event e = db.find(Event.class, ev.getEventNumber());
+		if (e!=null) {
+			return e.DoesQuestionExists(q.getQuestion());
+		} else 
+		return false;
+		
+	}
+	
+	public boolean removeUser(Registered u) {
+		db.getTransaction().begin();
+		Query q1 = db.createQuery("DELETE FROM Registered r WHERE r.usrname = ?1");
+		q1.setParameter(1, u.getUsername());
+		int amount = q1.executeUpdate();
+		db.getTransaction().commit();
+		return amount > 0;
+	}
+	
+	public void storeEvent(Event ev) {
+		db.getTransaction().begin();
+		db.persist(ev);
+		db.getTransaction().commit();
+	}
+	public boolean removeEvent2(Event ev) {
+		System.out.println(">> DataAccessTest: removeEvent");
+		Event e = db.find(Event.class, ev.getEventNumber());
+		if (e!=null) {
+			db.getTransaction().begin();
+			db.remove(e);
+			db.getTransaction().commit();
+			return true;
+		} else 
+		return false;
+    }
+
+	
+
+
 		
 		
 }

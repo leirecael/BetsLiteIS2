@@ -116,5 +116,10 @@ public class Quote implements Serializable{
 		}
 	}
 	
+	@Override
+	public int hashCode() {
+		return quoteNumber.hashCode();
+	}
+	
 	
 }

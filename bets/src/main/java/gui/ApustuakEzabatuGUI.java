@@ -68,6 +68,7 @@ public class ApustuakEzabatuGUI extends JFrame{
 		getContentPane().add(comboBox);
 		comboBox.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				throw new UnsupportedOperationException();
 			}
 		});
 		

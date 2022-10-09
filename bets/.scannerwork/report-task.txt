@@ -3,5 +3,5 @@ projectKey=BetsLiteIS2
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.33148
 dashboardUrl=https://sonarcloud.io/dashboard?id=BetsLiteIS2
-ceTaskId=AYO-HCMvlynUE0zPAjPg
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYO-HCMvlynUE0zPAjPg
+ceTaskId=AYO-tcR88DCAeQYRhWxU
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYO-tcR88DCAeQYRhWxU
