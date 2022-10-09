@@ -34,7 +34,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="C:/Users/Leire/git/BetsLiteIS2/bets/src/main/resources/objectdb.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Leire/git/BetsLiteIS2/bets/src/main/resources/mockito-core-3.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Leire/git/BetsLiteIS2/bets/src/main/resources/objenesis-tck-3.0.1.jar"/>

@@ -153,6 +153,47 @@ public class GertaerakSortuMockIntTest {
 		
 	}
 	
+	@Test
+	//sut.gertaerakSortu:  Evento ya existete, da false
+	public void test4() {
+		String description = "Real Madrid-Barcelona";
+		String sport = "Patata";
+		boolean resp;
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+		Date eventDate=null;;
+		try {
+			eventDate = sdf.parse("30/10/2022");
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		try {
+			//configure Mock
+			Mockito.doReturn(false).when(dataAccess).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
+			
+			//invoke System Under Test(sut)
+			resp = sut.gertaerakSortu(description, eventDate, sport);
+			
+			//verify the results
+			assertFalse(resp);
+			
+			ArgumentCaptor<String> descriptionCaptor = ArgumentCaptor.forClass(String.class);
+			ArgumentCaptor<Date> eventDateCaptor = ArgumentCaptor.forClass(Date.class);
+			ArgumentCaptor<String> sportCaptor = ArgumentCaptor.forClass(String.class);
+			
+			Mockito.verify(dataAccess,Mockito.times(1)).gertaerakSortu(descriptionCaptor.capture(), eventDateCaptor.capture(), sportCaptor.capture());
+			
+			assertEquals(descriptionCaptor.getValue(),description);
+			assertEquals(eventDateCaptor.getValue(),eventDate);
+			assertEquals(sportCaptor.getValue(),sport);
+			
+			
+		} catch (EventFinished e) {
+			fail();
+		}
+		
+	}
 	
 	
 	
