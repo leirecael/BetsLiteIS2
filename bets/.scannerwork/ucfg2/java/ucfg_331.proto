@@ -1,63 +1,16 @@
 
-.domain.Apustua#galdutaMarkatu(Ldomain/Quote;)ZO
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaL L("4*∑
-2O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaN N(Ö
-Ç
-O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaN N(
-domain.Apustua"
-egoera"__id*	
-galduta"Y
-O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaO O(
-""*Ç
-3O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaMW M(Z»≈
-O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaMW M(k
-%3java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
-
-quodomain.Quote2getQuoteNumber()ç
-ä
-O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaMm M(r
-%4domain.Quote"__id**
-domain.Apustua"
-kuota»≈
-P
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaMm M(É
-%5java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
-
-%4domain.Quote2getQuoteNumber()*
-2
-1*Ω
-4O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaM M(
-ç
-ä
-O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaM M(
-
-%0domain.Quote"__id**
-domain.Apustua"
-kuota•¢
-O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaM M(
-%1"$domain.Quote#getQuestion()LQuestion;*
-
-%0domain.Quote2getQuestion()¶£
-O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaM. M(?
-%2"$domain.Quote#getQuestion()LQuestion;*
-
-quodomain.Quote2getQuestion()*
-3
-1*Ø
+,domain.Apustua#getEgoera()Ljava/lang/String;O
+EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java< <("1*÷
 1O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaQ	 Q("Y
+EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java=	 =(í
+è
 O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.javaQ Q(
-"":
-quodomain.QuoteB
+EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java=	 =(
+%0java.lang.String"__id**
+domain.Apustua"
+egoera"k
+O
+EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java= =(
+
+%0java.lang.StringB
 domain.Apustua

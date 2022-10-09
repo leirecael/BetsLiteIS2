@@ -1,17 +1,16 @@
 
-,domain.Quote#getForecast()Ljava/lang/String;M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaA A("1*–
+)domain.Quote#getQuote()Ljava/lang/Double;M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.java9 9("1*Õ
 1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaB	 B(ê
-ç
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.java:	 :(ç
+ä
 M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaB	 B(
-%0java.lang.String"__id**
-domain.Quote"
-
-forecast"i
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.java:	 :(
+%0java.lang.Double"__id**
+domain.Quote"
+balio"i
 M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaB B(
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.java: :(
 
-%0java.lang.StringB
+%0java.lang.DoubleB
 domain.Quote

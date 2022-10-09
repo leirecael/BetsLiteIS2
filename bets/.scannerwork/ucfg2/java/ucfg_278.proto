@@ -1,16 +1,16 @@
 
-.domain.Transaction#getMota()Ljava/lang/String;S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaA A("1*ä
+,domain.Transaction#getData()Ljava/util/Date;S
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java; ;("1*à
 1S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaB	 B(˜
-•
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java<	 <(–
+“
 S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaB	 B(
-%0java.lang.String"__id* *
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java<	 <(
+%0java.util.Date"__id* *
 domain.Transaction"
-mota"o
+data"m
 S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaB B(
-
-%0java.lang.StringB
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java< <(
+
+%0java.util.DateB
 domain.Transaction

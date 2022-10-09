@@ -1,3 +1,2 @@
-domain.Quote#instance-init#
-java.util.Vector#<init>()V
-java.util.Vector#instance-init#
+domain.Sport#hashCode()I
+java.lang.String#hashCode()I

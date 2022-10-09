@@ -1,2 +1,1 @@
-domain.Registered#toString()Ljava/lang/String;
-java.lang.String#equals(Ljava/lang/Object;)Z
+domain.Registered#addJarraitutako(LJarraitzailea;)V

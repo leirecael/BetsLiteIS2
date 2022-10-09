@@ -1,1 +1,1 @@
-exceptions.ApustuaAlreadyExist#instance-init#
+exceptions.QuestionAlreadyExist#<init>(Ljava/lang/String;)V

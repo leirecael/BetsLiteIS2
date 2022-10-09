@@ -1,1 +1,1 @@
-domain.Transaction#getMota()Ljava/lang/String;
+domain.Transaction#setData(Ljava/util/Date;)V

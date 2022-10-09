@@ -78,4 +78,9 @@ public class Sport implements Serializable{
 		}
 		return this.izena.equals(sp.getIzena());
 	}
+	
+	@Override
+	public int hashCode() {
+		return izena.hashCode();
+	}
 }

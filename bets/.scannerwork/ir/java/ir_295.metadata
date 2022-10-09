@@ -1,1 +1,1 @@
-domain.Quote#removeApustua(Ldomain/Apustua;)V
+domain.Quote#addApustua(Ldomain/Apustua;)V

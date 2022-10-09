@@ -1,1 +1,1 @@
-domain.Registered#setDiruLimitea(Ljava/lang/Double;)V
+domain.Registered#getDiruLimitea()Ljava/lang/Double;

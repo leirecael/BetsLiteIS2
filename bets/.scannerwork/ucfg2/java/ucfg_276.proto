@@ -1,16 +1,16 @@
 
-,domain.Transaction#getData()Ljava/util/Date;S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java; ;("1*à
+/domain.Transaction#getDirua()Ljava/lang/Double;S
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java5 5("1*å
 1S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java<	 <(–
-“
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java6	 6(™
+–
 S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java<	 <(
-%0java.util.Date"__id* *
-domain.Transaction"
-data"m
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java6	 6(
+%0java.lang.Double"__id*!*
+domain.Transaction"
+dirua"o
 S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java< <(
-
-%0java.util.DateB
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java6 6(
+
+%0java.lang.DoubleB
 domain.Transaction

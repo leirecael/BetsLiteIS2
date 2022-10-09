@@ -1,16 +1,9 @@
 
->configuration.ConfigXML#getInstance()Lconfiguration/ConfigXML;Z
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaè è($"1*ì
-1Z
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaê	 ê(≤
-Ø
-Z
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaê	 ê(
-%0configuration.ConfigXML"__id*,**
-configuration.ConfigXML"
-theInstance"}
-Z
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaê ê(
-
-%0configuration.ConfigXMLB"
+/configuration.ConfigXML#isBusinessLogicLocal()ZX
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaE E($"1*¡
+1X
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaF	 F("b
+X
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaF F(
+""B
 configuration.ConfigXML

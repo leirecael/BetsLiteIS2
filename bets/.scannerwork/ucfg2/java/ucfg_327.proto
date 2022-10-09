@@ -1,16 +1,16 @@
 
-'domain.Apustua#getKuota()Ldomain/Quote;O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java4 4("1*Õ
+4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;O
+EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java, ,( "1*ﬂ
 1O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java5	 5(ç
-ä
+EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java-	 -(ö
+ó
 O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java5	 5(
-%0domain.Quote"__id**
-domain.Apustua"
-kuota"g
+EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java-	 -(
+%0java.lang.Integer"__id*%*#
+domain.Apustua"
+apustuaNumber"l
 O
-EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java5 5(
-
-%0domain.QuoteB
+EC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Apustua.java- -(
+
+%0java.lang.IntegerB
 domain.Apustua

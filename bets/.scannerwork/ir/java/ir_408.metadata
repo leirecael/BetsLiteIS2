@@ -1,1 +1,1 @@
-domain.Apustua#setKuota(Ldomain/Quote;)V
+domain.Apustua#getKuota()Ldomain/Quote;

@@ -862,7 +862,7 @@ public void open(boolean initializeMode){
 				Jarraitzailea erab=db.find(Jarraitzailea.class, reg.getJarraitzaileaNumber());
 				b=true;
 				for(ApustuAnitza apu: erab.getNork().getApustuAnitzak()) {
-					if(apu.getApustuKopia()==apustuAnitza.getApustuKopia()) {
+					if(apu.getApustuKopia().equals(apustuAnitza.getApustuKopia())) {
 						b=false;
 					}
 				}
@@ -901,20 +901,20 @@ public void open(boolean initializeMode){
 	}
 	
 	public List<Apustua> findApustua(Registered u){
-		Registered user = (Registered) db.find(Registered.class, u.getUsername()); 
+
 		TypedQuery<Apustua> Aquery = db.createQuery("SELECT a FROM Apustua a WHERE a.getUser().getUsername() =?1 ", Apustua.class);
 		Aquery.setParameter(1, u.getUsername());
 		return Aquery.getResultList();
 	}
 	public List<ApustuAnitza> findApustuAnitza(Registered u){
-		Registered user = (Registered) db.find(Registered.class, u.getUsername()); 
+
 		TypedQuery<ApustuAnitza> Aquery = db.createQuery("SELECT aa FROM ApustuAnitza aa WHERE aa.getUser().getUsername() =?1 ", ApustuAnitza.class);
 		Aquery.setParameter(1, u.getUsername());
 		return Aquery.getResultList();
 	}
 	
 	public List<Transaction> findTransakzioak(Registered u){
-		Registered user = (Registered) db.find(Registered.class, u.getUsername()); 
+
 		TypedQuery<Transaction> Tquery = db.createQuery("SELECT t FROM Transaction t WHERE t.getErabiltzailea().getUsername() =?1 ", Transaction.class);
 		Tquery.setParameter(1, u.getUsername());
 		return Tquery.getResultList();
@@ -1129,8 +1129,7 @@ public void open(boolean initializeMode){
 	
 	public List<Team> getAllTeams() {	
 		TypedQuery<Team> query = db.createQuery("SELECT t FROM Team t ",Team.class);   
-		List<Team> teams = query.getResultList();
-	 	return teams;
+	 	return query.getResultList();
 	}
 	
 	public void jarraituTaldea(Registered u, Team t) {

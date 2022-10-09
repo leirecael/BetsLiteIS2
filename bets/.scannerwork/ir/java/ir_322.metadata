@@ -1,1 +1,1 @@
-domain.Registered#setTransakzioak(Ljava/util/Vector;)V
+domain.Registered#getTransakzioak()Ljava/util/Vector;

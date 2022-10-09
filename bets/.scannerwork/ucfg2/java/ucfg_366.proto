@@ -1,16 +1,16 @@
 
-@configuration.ConfigXML#getBusinessLogicName()Ljava/lang/String;Z
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaõ õ(#"1*ã
+>configuration.ConfigXML#getInstance()Lconfiguration/ConfigXML;Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaè è($"1*ì
 1Z
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaú	 ú(±
-Æ
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaê	 ê(≤
+Ø
 Z
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaú	 ú(
-%0java.lang.String"__id*2*0
-configuration.ConfigXML"
-businessLogicName"v
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaê	 ê(
+%0configuration.ConfigXML"__id*,**
+configuration.ConfigXML"
+theInstance"}
 Z
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaú ú(
-
-%0java.lang.StringB
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaê ê(
+
+%0configuration.ConfigXMLB"
 configuration.ConfigXML

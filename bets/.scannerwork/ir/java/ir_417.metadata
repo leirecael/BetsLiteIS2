@@ -1,1 +1,2 @@
-gui.MainUserGUI#getBusinessLogic()LBLFacade;
+domain.Apustua#hashCode()I
+java.lang.Integer#hashCode()I

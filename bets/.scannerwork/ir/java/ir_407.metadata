@@ -1,1 +1,1 @@
-domain.Apustua#getKuota()Ldomain/Quote;
+domain.Apustua#setApostuaNumber(Ljava/lang/Integer;)V

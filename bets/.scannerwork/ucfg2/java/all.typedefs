@@ -3493,10 +3493,11 @@ $setContentPane(Ljava/awt/Container;);javax.swing.JRootPane#setContentPane(Ljav
 -actionPerformed(Ljava/awt/event/ActionEvent;)Ggui.ApustuakEzabatuGUI$2#actionPerformed(Ljava/awt/event/ActionEvent;)Võ
 gui.ApustuakEzabatuGUI$3java.awt.event.ActionListenerjava.lang.Object.
 <init>()"gui.ApustuakEzabatuGUI$3#<init>()Vx
--actionPerformed(Ljava/awt/event/ActionEvent;)Ggui.ApustuakEzabatuGUI$3#actionPerformed(Ljava/awt/event/ActionEvent;)V„
+-actionPerformed(Ljava/awt/event/ActionEvent;)Ggui.ApustuakEzabatuGUI$3#actionPerformed(Ljava/awt/event/ActionEvent;)V¸
 bets.GertaerakSortuMockIntTestjava.lang.Object2
 test3()'bets.GertaerakSortuMockIntTest#test3()V4
 <init>()(bets.GertaerakSortuMockIntTest#<init>()V2
+test4()'bets.GertaerakSortuMockIntTest#test4()V2
 test1()'bets.GertaerakSortuMockIntTest#test1()V2
 test2()'bets.GertaerakSortuMockIntTest#test2()V»(
 java.text.SimpleDateFormatjava.text.DateFormatT
@@ -3629,7 +3630,7 @@ getPanel().gui.MainUserGUI#getPanel()Ljavax/swing/JPanel;-
 getRdbtnNewRadioButton_1()Dgui.MainUserGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;×
 gui.AdminGUI$9java.awt.event.ActionListenerjava.lang.Object$
 <init>()gui.AdminGUI$9#<init>()Vn
--actionPerformed(Ljava/awt/event/ActionEvent;)=gui.AdminGUI$9#actionPerformed(Ljava/awt/event/ActionEvent;)Vá
+-actionPerformed(Ljava/awt/event/ActionEvent;)=gui.AdminGUI$9#actionPerformed(Ljava/awt/event/ActionEvent;)V‰
 domain.Sportjava.lang.Objectjava.io.SerializableN
 getApustuKantitatea()5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;F
 equals(Ljava/lang/Object;)(domain.Sport#equals(Ljava/lang/Object;)Z"
@@ -3640,7 +3641,9 @@ toString())domain.Sport#toString()Ljava/lang/String;b
 <init>(Ljava/lang/String;)(domain.Sport#<init>(Ljava/lang/String;)VJ
 setIzena(Ljava/lang/String;)*domain.Sport#setIzena(Ljava/lang/String;)VH
 eguneratuApustuKantitatea())domain.Sport#eguneratuApustuKantitatea()V9
-getEvents()*domain.Sport#getEvents()Ljava/util/Vector;7
+getEvents()*domain.Sport#getEvents()Ljava/util/Vector;&
+
+hashCode()domain.Sport#hashCode()I7
 
 getIzena())domain.Sport#getIzena()Ljava/lang/String;ã
 domain.Quotejava.lang.Objectjava.io.SerializableF
@@ -3660,7 +3663,7 @@ toString())domain.Quote#toString()Ljava/lang/String;J
 <init>()domain.Quote#<init>()V=
 getForecast(),domain.Quote#getForecast()Ljava/lang/String;j
 ,<init>(Ljava/lang/Double;Ljava/lang/String;):domain.Quote#<init>(Ljava/lang/Double;Ljava/lang/String;)V5
-getQuestion()$domain.Quote#getQuestion()LQuestion;Ñ
+getQuestion()$domain.Quote#getQuestion()LQuestion;û
 domain.Apustuajava.lang.Objectjava.io.SerializableH
 equals(Ljava/lang/Object;)*domain.Apustua#equals(Ljava/lang/Object;)ZJ
 getApostuaNumber()4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;$
@@ -3672,7 +3675,9 @@ toString())domain.Quote#toString()Ljava/lang/String;J
 #eguneratuApustuKant(Ldomain/Sport;)3domain.Apustua#eguneratuApustuKant(Ldomain/Sport;)V5
 
 getKuota()'domain.Apustua#getKuota()Ldomain/Quote;P
-galdutaMarkatu(Ldomain/Quote;).domain.Apustua#galdutaMarkatu(Ldomain/Quote;)Z;
+galdutaMarkatu(Ldomain/Quote;).domain.Apustua#galdutaMarkatu(Ldomain/Quote;)Z(
+
+hashCode()domain.Apustua#hashCode()I;
 getEgoera(),domain.Apustua#getEgoera()Ljava/lang/String;û
 gui.PopularGUIjavax.swing.JFrameJ
 <init>(Ldomain/Registered;)+gui.PopularGUI#<init>(Ldomain/Registered;)Vˆ

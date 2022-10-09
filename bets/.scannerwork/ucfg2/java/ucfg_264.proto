@@ -1,9 +1,16 @@
 
-domain.Registered#isAdmin()ZT
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÎ Î("1*¹
+5domain.Registered#getBankAccount()Ljava/lang/Integer;T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÇ Ç("1*ï
 1T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÏ	 Ï("^
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÈ	 È( 
+
 T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÏ Ï(
-""B
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÈ	 È(
+%0java.lang.Integer"__id*&*$
+domain.Registered"
+bankAccount"q
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÈ È(
+
+%0java.lang.IntegerB
 domain.Registered
