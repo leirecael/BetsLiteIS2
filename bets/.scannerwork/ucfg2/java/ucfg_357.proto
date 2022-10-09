@@ -1,16 +1,16 @@
 
-3configuration.ConfigXML#getUser()Ljava/lang/String;Q
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java9 9("1*ã
-1Q
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java:	 :(›
-˜
-Q
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java:	 :(
+3configuration.ConfigXML#getUser()Ljava/lang/String;X
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java9 9("1*ø
+1X
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java:	 :(¢
+Ÿ
+X
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java:	 :(
 %0java.lang.String"__id*%*#
 configuration.ConfigXML"
-user"m
-Q
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java: :(
+user"t
+X
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java: :(
 
 %0java.lang.StringB
 configuration.ConfigXML

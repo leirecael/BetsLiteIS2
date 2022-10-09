@@ -1,16 +1,16 @@
 
-/domain.Event#getDescription()Ljava/lang/String;F
-<C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Event.javaE E("1*¾
-1F
-<C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Event.javaF	 F(Œ
-‰
-F
-<C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Event.javaF	 F(
+/domain.Event#getDescription()Ljava/lang/String;M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaE E("1*Ó
+1M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaF	 F(“
+
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaF	 F(
 %0java.lang.String"__id*!*
 domain.Event"
-description"b
-F
-<C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Event.javaF F(
+description"i
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaF F(
 
 %0java.lang.StringB
 domain.Event

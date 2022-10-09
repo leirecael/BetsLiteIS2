@@ -1,16 +1,16 @@
 
-;configuration.ConfigXML#getDatabaseNode()Ljava/lang/String;S
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java§ §("1*ñ
-1S
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java¨	 ¨(¥
-¢
-S
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java¨	 ¨(
+;configuration.ConfigXML#getDatabaseNode()Ljava/lang/String;Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java§ §("1*†
+1Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¨	 ¨(¬
+©
+Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¨	 ¨(
 %0java.lang.String"__id*-*+
 configuration.ConfigXML"
-databaseNode"o
-S
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java¨ ¨(
+databaseNode"v
+Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¨ ¨(
 
 %0java.lang.StringB
 configuration.ConfigXML

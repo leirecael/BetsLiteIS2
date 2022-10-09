@@ -1,7 +1,7 @@
 organization=leirecartagena
-projectKey=BetsLite22
+projectKey=BetsLiteIS2
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.33148
-dashboardUrl=https://sonarcloud.io/dashboard?id=BetsLite22
-ceTaskId=AYO8mOJJhPmCAbZiKi99
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYO8mOJJhPmCAbZiKi99
+dashboardUrl=https://sonarcloud.io/dashboard?id=BetsLiteIS2
+ceTaskId=AYO8360n8DCAeQYRhVYv
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYO8360n8DCAeQYRhVYv

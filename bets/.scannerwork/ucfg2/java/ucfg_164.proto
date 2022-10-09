@@ -1,27 +1,27 @@
 
-DbusinessLogic.BLFacadeImplementation#isRegister(Ljava/lang/String;)Z`
-TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaî î("startingBlock*ª
-startingBlock`
-TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaî î(.¶
-£
-`
-TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaì ì(
+DbusinessLogic.BLFacadeImplementation#isRegister(Ljava/lang/String;)Zg
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaî î("startingBlock*–
+startingBlockg
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaî î(.≠
+™
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaì ì(
 %0"
 __annotate*
 	WebMethod*
 
-usernamejava.lang.Stringô
-ñ
-`
-TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaî% î(-
+usernamejava.lang.String†
+ù
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaî% î(-
 usernamejava.lang.String"__annotation*
 
 %0*
-1*—
-1`
-TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaï ï("j
-`
-TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaò ò(
+1*ﬂ
+1g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaï ï("q
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaò ò(
 "":
 usernamejava.lang.StringB(&
 $businessLogic.BLFacadeImplementation

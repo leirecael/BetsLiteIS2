@@ -1,16 +1,16 @@
 
-?configuration.ConfigXML#getDataBaseOpenMode()Ljava/lang/String;S
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java£ £(""1*õ
-1S
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java¤	 ¤(©
-¦
-S
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java¤	 ¤(
+?configuration.ConfigXML#getDataBaseOpenMode()Ljava/lang/String;Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java£ £(""1*Š
+1Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¤	 ¤(°
+­
+Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¤	 ¤(
 %0java.lang.String"__id*1*/
 configuration.ConfigXML"
-dataBaseOpenMode"o
-S
-GC:/Users/Leire/git/Bet22Lite/src/main/java/configuration/ConfigXML.java¤ ¤(
+dataBaseOpenMode"v
+Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¤ ¤(
 
 %0java.lang.StringB
 configuration.ConfigXML

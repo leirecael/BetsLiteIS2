@@ -1,16 +1,16 @@
 
-/domain.Question#getQuestion()Ljava/lang/String;I
-?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.javaV V("1*Í
-1I
-?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.javaW	 W(•
-’
-I
-?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.javaW	 W(
+/domain.Question#getQuestion()Ljava/lang/String;P
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaV V("1*â
+1P
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaW	 W(œ
+™
+P
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaW	 W(
 %0java.lang.String"__id*'*%
 domain.Question"
-questionString"e
-I
-?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.javaW W(
+questionString"l
+P
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaW W(
 
 %0java.lang.StringB
 domain.Question

@@ -1,16 +1,16 @@
 
->domain.ApustuAnitza#getApustuAnitzaNumber()Ljava/lang/Integer;M
-CC:/Users/Leire/git/Bet22Lite/src/main/java/domain/ApustuAnitza.java@ @(%"1*ã
-1M
-CC:/Users/Leire/git/Bet22Lite/src/main/java/domain/ApustuAnitza.javaA	 A(¢
-Ÿ
-M
-CC:/Users/Leire/git/Bet22Lite/src/main/java/domain/ApustuAnitza.javaA	 A(
+>domain.ApustuAnitza#getApustuAnitzaNumber()Ljava/lang/Integer;T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java@ @(%"1*ø
+1T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaA	 A(©
+¦
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaA	 A(
 %0java.lang.Integer"__id*/*-
 domain.ApustuAnitza"
-apustuAnitzaNumber"j
-M
-CC:/Users/Leire/git/Bet22Lite/src/main/java/domain/ApustuAnitza.javaA A(
+apustuAnitzaNumber"q
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaA A(
 
 %0java.lang.IntegerB
 domain.ApustuAnitza

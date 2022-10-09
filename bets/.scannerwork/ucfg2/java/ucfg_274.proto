@@ -1,16 +1,16 @@
 
-/domain.Transaction#getDirua()Ljava/lang/Double;L
-BC:/Users/Leire/git/Bet22Lite/src/main/java/domain/Transaction.java5 5("1*–
-1L
-BC:/Users/Leire/git/Bet22Lite/src/main/java/domain/Transaction.java6	 6(í
-è
-L
-BC:/Users/Leire/git/Bet22Lite/src/main/java/domain/Transaction.java6	 6(
+/domain.Transaction#getDirua()Ljava/lang/Double;S
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java5 5("1*Â
+1S
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java6	 6(ô
+ñ
+S
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java6	 6(
 %0java.lang.Double"__id*!*
 domain.Transaction"
-dirua"h
-L
-BC:/Users/Leire/git/Bet22Lite/src/main/java/domain/Transaction.java6 6(
+dirua"o
+S
+IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.java6 6(
 
 %0java.lang.DoubleB
 domain.Transaction

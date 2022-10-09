@@ -1,17 +1,17 @@
 
-1domain.Registered#getPassword()Ljava/lang/String;M
-AC:/Users/Leire/git/Bet22Lite/src/main/java/domain/Registered.java¿ ¿("1*Õ
-1M
-AC:/Users/Leire/git/Bet22Lite/src/main/java/domain/Registered.javaÀ	 À(•
-’
-M
-AC:/Users/Leire/git/Bet22Lite/src/main/java/domain/Registered.javaÀ	 À(
+1domain.Registered#getPassword()Ljava/lang/String;T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java¿ ¿("1*ê
+1T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÀ	 À(œ
+™
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÀ	 À(
 %0java.lang.String"__id*#*!
 domain.Registered"
 
-password"i
-M
-AC:/Users/Leire/git/Bet22Lite/src/main/java/domain/Registered.javaÀ À(
+password"p
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÀ À(
 
 %0java.lang.StringB
 domain.Registered
