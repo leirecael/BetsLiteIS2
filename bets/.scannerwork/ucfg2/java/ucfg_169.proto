@@ -1,0 +1,47 @@
+
+VbusinessLogic.BLFacadeImplementation#gertaerakKopiatu(Ldomain/Event;Ljava/util/Date;)Z`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaó ó( "startingBlock*ﬁ
+startingBlock`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaó  ó(4õ
+ò
+`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javañ ñ(
+%0"
+__annotate*
+	WebMethod*
+
+edomain.Eventé
+ã
+`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaó' ó((
+edomain.Event"__annotation*
+
+%0†
+ù
+`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javañ ñ(
+%1"
+__annotate*
+	WebMethod*
+
+datejava.util.Dateì
+ê
+`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaó/ ó(3
+datejava.util.Date"__annotation*
+
+%1*
+1*ﬂ
+1`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaò ò(ã
+à
+`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaô ô(0
+bjava.lang.Boolean"__id*
+"""j
+`
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaõ õ(
+"":
+edomain.Event:
+datejava.util.DateB(&
+$businessLogic.BLFacadeImplementation

@@ -1,0 +1,59 @@
+
+,domain.Question#toString()Ljava/lang/String;K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java≥ ≥("1*¶
+
+1K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥	 ¥(ò
+ï
+K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥	 ¥(
+%0java.lang.Integer"__id*'*%
+domain.Question"
+questionNumberî
+ë
+K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥	 ¥(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;ó
+î
+K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥ ¥(*
+%2java.lang.String"__id*'*%
+domain.Question"
+questionString¶
+£
+K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥	 ¥(*
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.Stringì
+ê
+K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥	 ¥(.
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+;∂
+≥
+K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥1 ¥(L
+%5java.lang.String".java.lang.Double#toString(D)Ljava/lang/String;*"
+java.lang.Double*
+""¶
+£
+K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥	 ¥(L
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"g
+K
+?C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Question.java¥ ¥(M
+
+%6java.lang.StringB
+domain.Question

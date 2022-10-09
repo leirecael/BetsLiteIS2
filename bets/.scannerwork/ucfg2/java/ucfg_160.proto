@@ -1,0 +1,33 @@
+
+RbusinessLogic.BLFacadeImplementation#getEvents(Ljava/util/Date;)Ljava/util/Vector;^
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javad d("startingBlock*©
+startingBlock^
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javad d(*û
+õ
+^
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javac c(
+%0"
+__annotate*
+	WebMethod*
+
+datejava.util.Dateë
+é
+^
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javad% d()
+datejava.util.Date"__annotation*
+
+%0*
+1*Û
+1^
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javae e(ç
+ä
+^
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javaf f(2
+eventsjava.util.Vector"__id*
+"""~
+^
+TC:/Users/Leire/git/Bet22Lite/src/main/java/businessLogic/BLFacadeImplementation.javah h(
+
+eventsjava.util.Vector:
+datejava.util.DateB(&
+$businessLogic.BLFacadeImplementation

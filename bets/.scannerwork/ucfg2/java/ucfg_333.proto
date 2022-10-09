@@ -1,0 +1,60 @@
+
+*domain.Apustua#equals(Ljava/lang/Object;)ZH
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.javaY Y("startingBlock*¡
+2H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.java\
+ \("R
+H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.java\ \(
+""*Ø
+3H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.javaZ Z(€
+~
+H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.javaZ Z(
+adomain.Apustua"__id*
+
+ojava.lang.Object*
+2
+1*ì
+startingBlockH
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.javaY Y( 
+
+H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.javaX X(
+
+%3"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Objecty
+w
+H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.javaY Y(
+ojava.lang.Object"__annotation*
+
+%3*
+3*’
+1H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.java^	 ^(ÄÁ
+H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.java^	 ^( 
+%0java.lang.Integer"4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;*
+domain.Apustua2getApostuaNumber()ÇÄ
+H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.java^( ^(<
+%1java.lang.Integer"4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;*
+
+adomain.Apustua2getApostuaNumber()ÝÚ
+H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.java^	 ^(=
+%2boolean"-java.lang.Integer#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.Integer*
+
+%1java.lang.Integer2equals(Ljava/lang/Object;)"R
+H
+>C:/Users/Leire/git/Bet22Lite/src/main/java/domain/Apustua.java^ ^(>
+"":
+ojava.lang.ObjectB
+domain.Apustua
