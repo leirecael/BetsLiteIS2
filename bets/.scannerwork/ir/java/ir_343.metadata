@@ -1,1 +1,1 @@
-domain.Registered#removeApustua(LApustuAnitza;)V
+exceptions.QuestionAlreadyExist#<init>(Ljava/lang/String;)V

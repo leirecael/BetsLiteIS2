@@ -1,1 +1,1 @@
-gui.ApplicationLauncher#instance-init#
+domain.Event#setDescription(Ljava/lang/String;)V

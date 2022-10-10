@@ -1,1 +1,1 @@
-gui.EmaitzakIpiniGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+domain.Quote#<init>(Ljava/lang/Double;Ljava/lang/String;LQuestion;)V

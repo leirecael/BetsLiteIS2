@@ -1,1 +1,1 @@
-domain.Sport#getIzena()Ljava/lang/String;
+businessLogic.BLFacadeImplementation#jarraituTaldea(Ldomain/Registered;LTeam;)V

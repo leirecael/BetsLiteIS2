@@ -1,1 +1,1 @@
-domain.ApustuAnitza#addApustua(LApustua;)V
+gui.GertaerakKopiatuGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V

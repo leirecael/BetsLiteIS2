@@ -1,1 +1,1 @@
-configuration.ConfigXML#getBusinessLogicName()Ljava/lang/String;
+domain.Apustua#getApostuaNumber()Ljava/lang/Integer;

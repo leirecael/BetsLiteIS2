@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findSport(Ldomain/Event;)LSport;
+businessLogic.BLFacadeImplementation#storeRegistered(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;)V

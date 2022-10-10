@@ -1,1 +1,1 @@
-domain.Quote#equals(Ljava/lang/Object;)Z
+domain.Sport#getIzena()Ljava/lang/String;

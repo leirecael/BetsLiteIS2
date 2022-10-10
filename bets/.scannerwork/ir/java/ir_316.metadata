@@ -1,1 +1,1 @@
-exceptions.ApustuaAlreadyExist#<init>()V
+domain.Quote#getForecast()Ljava/lang/String;

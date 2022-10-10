@@ -1,1 +1,1 @@
-exceptions.EventFinished#instance-init#
+domain.Event#getLokala()LTeam;

@@ -1,1 +1,1 @@
-domain.Registered#setTransakzioak(Ljava/util/Vector;)V
+domain.Quote#addApustua(LApustua;)V

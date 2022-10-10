@@ -1,1 +1,1 @@
-gui.AdminGUI#instance-init#
+businessLogic.BLFacadeImplementation#findQuote(LQuestion;)Ljava/util/Collection;

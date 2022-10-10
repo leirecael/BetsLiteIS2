@@ -1,4 +1,4 @@
-gui.GertaerakKopiatuGUI#newDate(III)Ljava/util/Date;
-java.util.Calendar#getInstance()Ljava/util/Calendar;
-java.util.Calendar#set(IIIIII)V
-java.util.Calendar#getTime()Ljava/util/Date;
+bets.gertaeralKopiatuDABTest#testGertaerakKopiatu2()V
+java.util.Date#<init>(III)V
+java.util.Date#instance-init#
+gui.ApplicationLauncher#main([Ljava/lang/String;)V

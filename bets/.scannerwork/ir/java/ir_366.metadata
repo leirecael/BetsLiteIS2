@@ -1,1 +1,1 @@
-domain.Transaction#getData()Ljava/util/Date;
+domain.Registered#getMode()Ljava/lang/String;

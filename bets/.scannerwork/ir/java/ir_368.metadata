@@ -1,1 +1,1 @@
-domain.Transaction#getMota()Ljava/lang/String;
+domain.Registered#getDiruLimitea()Ljava/lang/Double;

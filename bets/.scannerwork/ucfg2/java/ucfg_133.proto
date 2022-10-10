@@ -1,37 +1,20 @@
 
-)domain.Event#toString()Ljava/lang/String;M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java] ]("1*Æ
-1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java^	 ^(î
-ë
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java^	 ^(
-%0java.lang.Integer"__id*!*
-domain.Event"
-eventNumberñ
-ì
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java^	 ^(
-%1java.lang.String"__concat*
-
-%0java.lang.Integer*
-;ì
-ê
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java^ ^($
-%2java.lang.String"__id*!*
-domain.Event"
-description®
-•
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java^	 ^($
-%3java.lang.String"__concat*
-
-%1java.lang.String*
-
-%2java.lang.String"i
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java^ ^(%
-
-%3java.lang.StringB
-domain.Event
+%domain.ApustuAnitza#galdutaMarkatu()ZT
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javat t("3"1*À
+3T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaw w(è
+å
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaw w(!
+domain.ApustuAnitza"
+egoera"__id*	
+galduta"^
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javax x(
+""*π
+1T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java{	 {("^
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java{ {(
+""B
+domain.ApustuAnitza

@@ -1,2 +1,1 @@
-gui.MainGUI#<init>()V
-gui.MainGUI#initialize()V
+domain.Registered#setPassword(Ljava/lang/String;)V

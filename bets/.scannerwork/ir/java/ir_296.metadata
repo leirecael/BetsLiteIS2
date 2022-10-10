@@ -1,2 +1,1 @@
-domain.Quote#removeApustua(Ldomain/Apustua;)V
-java.lang.Integer#equals(Ljava/lang/Object;)Z
+domain.Sport#<init>(Ljava/lang/String;)V

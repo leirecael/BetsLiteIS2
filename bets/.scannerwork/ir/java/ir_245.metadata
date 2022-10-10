@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findQuestionFromQuote(LQuote;)LQuestion;
+businessLogic.BLFacadeImplementation#initializeBD()V

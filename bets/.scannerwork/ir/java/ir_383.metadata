@@ -1,3 +1,1 @@
-gui.MainGUI#instance-init#
-javax.swing.ButtonGroup#instance-init#
-javax.swing.ButtonGroup#<init>()V
+domain.Registered#getUsername()Ljava/lang/String;

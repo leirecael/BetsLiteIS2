@@ -1,21 +1,33 @@
 
-domain.Sport#hashCode()IM
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.javaS S("1*ﬂ
-1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.javaT	 T(ç
-ä
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.javaT	 T(
-%0java.lang.String"__id**
-domain.Sport"
-izena°û
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.javaT	 T(	
-%1int"java.lang.String#hashCode()I*
+UbusinessLogic.BLFacadeImplementation#findUser(Ldomain/Registered;)Ldomain/Registered;g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java¿ ¿("startingBlock* 
+startingBlockg
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java¿ ¿(,™
+ß
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaø ø(
+%0"
+__annotate*
+	WebMethod*
+
+userdomain.Registeredù
+ö
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java¿' ¿(+
+userdomain.Registered"__annotation*
+
+%0*
+1*á
+1g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java¡ ¡(í
+è
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java¬ ¬()
+udomain.Registered"__id*
+"""É
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaƒ ƒ(
 
-%0java.lang.String2
-hashCode()"W
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.javaT T(
-""B
-domain.Sport
+udomain.Registered:
+userdomain.RegisteredB(&
+$businessLogic.BLFacadeImplementation

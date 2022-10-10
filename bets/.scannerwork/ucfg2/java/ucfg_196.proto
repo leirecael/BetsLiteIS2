@@ -1,16 +1,33 @@
 
-5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java3 3(#"1*Ú
-1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4	 4(™
-–
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4	 4(
-%0java.lang.Integer"__id*&*$
-domain.Sport"
-apustuKantitatea"j
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4 4(
-
-%0java.lang.IntegerB
-domain.Sport
+[businessLogic.BLFacadeImplementation#saldoaBistaratu(Ldomain/Registered;)Ljava/lang/String;g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java÷ ÷(!"startingBlock*Ä
+startingBlockg
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java÷! ÷(/§
+¤
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaö ö(
+%0"
+__annotate*
+	WebMethod*
+
+udomain.Registeredš
+—
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java÷- ÷(.
+udomain.Registered"__annotation*
+
+%0*
+1*
+1g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaø ø(•
+’
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaù ù(1
+diruajava.lang.String"__id*
+"""†
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaû û(
+
+diruajava.lang.String:
+udomain.RegisteredB(&
+$businessLogic.BLFacadeImplementation

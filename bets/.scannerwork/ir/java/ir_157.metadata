@@ -1,1 +1,3 @@
-domain.ApustuAnitza#getApustuak()Ljava/util/Vector;
+gui.GertaerakKopiatuGUI#instance-init#
+javax.swing.DefaultListModel#instance-init#
+javax.swing.DefaultListModel#<init>()V

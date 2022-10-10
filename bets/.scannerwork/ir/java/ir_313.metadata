@@ -1,1 +1,1 @@
-exceptions.QuestionAlreadyExist#<init>()V
+domain.Quote#setApustuak(Ljava/util/Vector;)V

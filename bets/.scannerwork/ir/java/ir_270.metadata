@@ -1,1 +1,1 @@
-domain.Sport#setIzena(Ljava/lang/String;)V
+businessLogic.BLFacadeImplementation#findUser(Ldomain/Registered;)Ldomain/Registered;

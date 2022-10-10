@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findUser(LRegistered;)LRegistered;
+businessLogic.BLFacadeImplementation#getEvents(Ljava/util/Date;)Ljava/util/Vector;

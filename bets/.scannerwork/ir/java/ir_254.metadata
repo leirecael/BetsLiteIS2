@@ -1,1 +1,1 @@
-gui.AdminGUI#setBussinessLogic(LBLFacade;)V
+businessLogic.BLFacadeImplementation#ApustuaEgin(Ldomain/Registered;Ljava/util/Vector;Ljava/lang/Double;Ljava/lang/Integer;)Z

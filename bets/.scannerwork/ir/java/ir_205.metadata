@@ -1,1 +1,1 @@
-exceptions.EventFinished#<init>()V
+domain.Event#setLokala(LTeam;)V

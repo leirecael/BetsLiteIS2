@@ -1,1 +1,1 @@
-domain.Registered#getMode()Ljava/lang/String;
+exceptions.QuoteAlreadyExist#<init>(Ljava/lang/String;)V

@@ -1,1 +1,2 @@
-configuration.ConfigXML#getDatabasePort()I
+gui.TaldeaApostatuGUI#instance-init#
+javax.swing.DefaultListModel#<init>()V

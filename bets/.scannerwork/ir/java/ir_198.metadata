@@ -1,1 +1,1 @@
-gui.MugimenduakBistaratuGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+domain.Event#getSport()LSport;

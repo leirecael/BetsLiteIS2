@@ -1,16 +1,33 @@
 
-)domain.Sport#getIzena()Ljava/lang/String;M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java# #("1*Õ
-1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java$	 $(ç
-ä
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java$	 $(
-%0java.lang.String"__id**
-domain.Sport"
-izena"i
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java$ $(
+ZbusinessLogic.BLFacadeImplementation#findTransakzioak(Ldomain/Registered;)Ljava/util/List;g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java„ „(-"startingBlock*ƒ
+startingBlockg
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java„- „(;ß
+§
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java‚ ‚(
+%0"
+__annotate*
+	WebMethod*
 
-%0java.lang.StringB
-domain.Sport
+udomain.Registeredö
+ó
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java„9 „(:
+udomain.Registered"__annotation*
+
+%0*
+1*Å
+1g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java‰ ‰(è
+å
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaÂ Â(9
+ljava.util.List"__id*
+"""Ä
+g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaÁ Á(
+
+ljava.util.List:
+udomain.RegisteredB(&
+$businessLogic.BLFacadeImplementation

@@ -1,1 +1,1 @@
-domain.Registered#setBankAccount(Ljava/lang/Integer;)V
+domain.Registered#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;Z)V

@@ -1,7 +1,4 @@
-gui.RegisteredGUI#getJButtonDiruaSartu()Ljavax/swing/JButton;
-javax.swing.JButton#<init>()V
+gui.RegisteredGUI#initialize()V
 java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
 java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;
-java.awt.Font#<init>(Ljava/lang/String;II)V
-java.awt.Font#instance-init#
-javax.swing.JButton#instance-init#
+gui.RegisteredGUI#getJContentPane()Ljavax/swing/JPanel;

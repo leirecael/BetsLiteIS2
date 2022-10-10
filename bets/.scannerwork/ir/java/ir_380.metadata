@@ -1,5 +1,2 @@
-configuration.UtilDate#newDate(III)Ljava/util/Date;
-java.util.Calendar#getInstance()Ljava/util/Calendar;
-java.util.TimeZone#getTimeZone(Ljava/lang/String;)Ljava/util/TimeZone;
-java.util.Calendar#set(IIIIII)V
-java.util.Calendar#getTime()Ljava/util/Date;
+domain.Registered#toString()Ljava/lang/String;
+java.lang.String#equals(Ljava/lang/Object;)Z

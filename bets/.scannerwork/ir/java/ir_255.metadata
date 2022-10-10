@@ -1,2 +1,1 @@
-gui.AdminGUI#<init>(Ldomain/Registered;)V
-gui.AdminGUI#initialize()V
+businessLogic.BLFacadeImplementation#findApustua(Ldomain/Registered;)Ljava/util/List;

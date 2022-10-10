@@ -1,1 +1,2 @@
-businessLogic.BLFacadeImplementation#findEvent(LQuote;)Ldomain/Event;
+businessLogic.BLFacadeImplementation#close()V
+null

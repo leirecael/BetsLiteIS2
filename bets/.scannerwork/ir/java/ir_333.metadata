@@ -1,1 +1,4 @@
-domain.Registered#setMode(Ljava/lang/String;)V
+gui.GertaeraInfo#instance-init#
+gui.MainGUI#getBusinessLogic()LBLFacade;
+javax.swing.DefaultListModel#instance-init#
+javax.swing.DefaultListModel#<init>()V

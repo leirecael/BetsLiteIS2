@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#jarraitu(LRegistered;LRegistered;Ljava/lang/Double;)Z
+gui.DestacadosGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V

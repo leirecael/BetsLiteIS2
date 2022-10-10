@@ -1,1 +1,1 @@
-domain.Event#listaraGehitu(LQuestion;)V
+domain.Event#getQuestions()Ljava/util/Vector;

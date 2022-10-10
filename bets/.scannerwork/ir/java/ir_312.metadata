@@ -1,1 +1,1 @@
-exceptions.QuestionAlreadyExist#instance-init#
+domain.Quote#getApustuak()Ljava/util/Vector;

@@ -1,23 +1,43 @@
 
-4domain.Event#DoesQuestionExists(Ljava/lang/String;)ZM
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javay y(""5*´
-3M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java| |("W
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java| |(
-""*Ü
-5M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaz z(©¶
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaz z(%
-%0"-domain.Event#getQuestions()Ljava/util/Vector;*
-domain.Event2getQuestions()*
-3
-1*´
-1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java~	 ~("W
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java~ ~(
-"":
-questionjava.lang.StringB
-domain.Event
+'domain.ApustuAnitza#irabazitaMarkatu()ZT
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java~ ~( "7*”
+2V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaÖ Ö(ì
+ê
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaÖ Ö(!
+domain.ApustuAnitza"
+egoera"__id*
+	irabazita"`
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaÜ Ü(
+""*Ω
+4V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaÇ Ç("`
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaÇ Ç(
+""*ﬁ
+7T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java (	ú
+ô
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java (
+%0java.lang.String"__id*#*!
+domain.ApustuAnitza"
+egoeraÿ’
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java (!
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+jokoan2equals(Ljava/lang/Object;)*	
+2
+4
+1*Ω
+1V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaà	 à("`
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.javaà à(
+""B
+domain.ApustuAnitza

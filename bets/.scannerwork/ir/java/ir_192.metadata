@@ -1,1 +1,1 @@
-domain.Event#setKanpokoa(LTeam;)V
+domain.Event#getEventNumber()Ljava/lang/Integer;

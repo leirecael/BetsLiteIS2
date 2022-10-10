@@ -1,1 +1,1 @@
-domain.Registered#setJarraitutakoLista(Ljava/util/Vector;)V
+gui.EmaitzakIpiniGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V

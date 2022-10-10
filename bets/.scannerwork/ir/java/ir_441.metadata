@@ -1,1 +1,1 @@
-configuration.ConfigXML#getBusinessLogicNode()Ljava/lang/String;
+domain.Apustua#<init>(LApustuAnitza;LQuote;)V

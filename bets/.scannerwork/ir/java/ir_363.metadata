@@ -1,1 +1,1 @@
-domain.Transaction#setErabiltzailea(Ldomain/Registered;)V
+domain.Registered#setIrabazitakoa(Ljava/lang/Double;)V

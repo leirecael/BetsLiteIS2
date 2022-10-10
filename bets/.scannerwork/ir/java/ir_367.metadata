@@ -1,1 +1,1 @@
-domain.Transaction#setData(Ljava/util/Date;)V
+domain.Registered#setMode(Ljava/lang/String;)V

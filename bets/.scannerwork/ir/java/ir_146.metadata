@@ -1,2 +1,3 @@
-domain.ApustuAnitza#instance-init#
-java.util.Vector#<init>()V
+gui.SugerenciasGUI#instance-init#
+javax.swing.DefaultListModel#instance-init#
+javax.swing.DefaultListModel#<init>()V

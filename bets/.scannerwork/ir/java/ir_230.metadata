@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findTransakzioak(LRegistered;)Ljava/util/List;
+gui.ApustuakEzabatuGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V

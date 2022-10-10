@@ -1,1 +1,4 @@
-businessLogic.BLFacadeImplementation#ApustuaEgin(LRegistered;Ljava/util/Vector;Ljava/lang/Double;Ljava/lang/Integer;)Z
+bets.gertaeralKopiatuDAWTest#testGertaerakKopiatu1()V
+java.util.Date#<init>(III)V
+java.util.Date#instance-init#
+gui.ApplicationLauncher#main([Ljava/lang/String;)V

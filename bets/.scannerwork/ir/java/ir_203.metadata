@@ -1,3 +1,1 @@
-bets.GertaerakSortuMockIntTest#instance-init#
-businessLogic.BLFacadeImplementation#<init>(LDataAccess;)V
-businessLogic.BLFacadeImplementation#instance-init#
+domain.Event#DoesQuestionExists(Ljava/lang/String;)Z

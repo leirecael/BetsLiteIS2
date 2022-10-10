@@ -1,1 +1,2 @@
-domain.ApustuAnitza#setEgoera(Ljava/lang/String;)V
+domain.ApustuAnitza#instance-init#
+java.util.Vector#<init>()V

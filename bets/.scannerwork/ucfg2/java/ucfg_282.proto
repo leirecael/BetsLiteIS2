@@ -1,67 +1,16 @@
 
-/domain.Transaction#toString()Ljava/lang/String;S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaI I("1*ç
-1S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ	 J(–
-“
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ J(
-%0java.util.Date"__id* *
-domain.Transaction"
-dataž
+5domain.Registered#getTransakzioak()Ljava/util/Vector;R
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaH H(+"1*è
+1R
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaI	 I(ž
 ›
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ	 J(
-%1java.lang.String"__concat*
-
-Data: *
-
-%0java.util.Date£
- 
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ	 J(+
-%2java.lang.String"__concat*
+R
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaI	 I(
+%0java.util.Vector"__id*'*%
+domain.Registered"
+transakzioak"n
+R
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaI I(
 
-%1java.lang.String*
-	, dirua: ™
-–
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ. J(8
-%3java.lang.Double"__id*!*
-domain.Transaction"
-dirua®
-«
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ	 J(8
-%4java.lang.String"__concat*
-
-%2java.lang.String*
-
-%3java.lang.Double¢
-Ÿ
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ	 J(E
-%5java.lang.String"__concat*
-
-%4java.lang.String*
-
-, mota: ˜
-•
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJH J(Q
-%6java.lang.String"__id* *
-domain.Transaction"
-mota®
-«
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ	 J(Q
-%7java.lang.String"__concat*
-
-%5java.lang.String*
-
-%6java.lang.String"o
-S
-IC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Transaction.javaJ J(R
-
-%7java.lang.StringB
-domain.Transaction
+%0java.util.VectorB
+domain.Registered

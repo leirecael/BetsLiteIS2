@@ -1,1 +1,2 @@
-domain.Registered#getApustuAnitzak()Ljava/util/Vector;
+domain.Quote#hashCode()I
+java.lang.Integer#hashCode()I

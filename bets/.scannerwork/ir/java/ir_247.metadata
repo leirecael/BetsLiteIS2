@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findTeam(LRegistered;)LTeam;
+businessLogic.BLFacadeImplementation#isRegister(Ljava/lang/String;)Z

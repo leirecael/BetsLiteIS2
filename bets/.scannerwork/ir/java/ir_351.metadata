@@ -1,1 +1,1 @@
-domain.Registered#getPassword()Ljava/lang/String;
+exceptions.ApustuaAlreadyExist#<init>(Ljava/lang/String;)V
