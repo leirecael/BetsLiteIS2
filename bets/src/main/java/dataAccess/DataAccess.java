@@ -958,17 +958,7 @@ public void open(boolean initializeMode){
 		Question que = q.getQuestion(); 
 		Question question = db.find(Question.class, que); 
 		question.setResult(result);
-		for(Quote quo: question.getQuotes()) {
-			for(Apustua apu: quo.getApustuak()) {
-				
-				Boolean b=apu.galdutaMarkatu(quo);
-				if(b) {
-					apu.getApustuAnitza().setEgoera("galduta");
-				}else {
-					apu.setEgoera("irabazita");
-				}
-			}
-		}
+		egoerakAldatu(question);
 		db.getTransaction().commit();
 		for(Apustua a : listApustuak) {
 			db.getTransaction().begin();
@@ -976,6 +966,19 @@ public void open(boolean initializeMode){
 			db.getTransaction().commit();
 			if(bool) {
 				this.ApustuaIrabazi(a.getApustuAnitza());
+			}
+		}
+	}
+
+	private void egoerakAldatu(Question question) {
+		for(Quote quo: question.getQuotes()) {
+			for(Apustua apu: quo.getApustuak()) {				
+				Boolean b=apu.galdutaMarkatu(quo);
+				if(b) {
+					apu.getApustuAnitza().setEgoera("galduta");
+				}else {
+					apu.setEgoera("irabazita");
+				}
 			}
 		}
 	}
