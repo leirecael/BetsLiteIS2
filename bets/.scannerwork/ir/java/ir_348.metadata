@@ -1,1 +1,10 @@
-bets.apustuaEginDABTest#test2()V
+bets.apustuaEginDABTest#setUp()V
+null
+java.util.Vector#<init>()V
+domain.Quote#<init>(Ljava/lang/Double;Ljava/lang/String;)V
+domain.Registered#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;Z)V
+java.util.Vector#instance-init#
+domain.Quote#instance-init#
+java.util.Date#<init>()V
+domain.Registered#instance-init#
+java.util.Date#instance-init#

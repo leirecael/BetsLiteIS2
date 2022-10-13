@@ -1,1 +1,6 @@
-dataAccess.DataAccess#saldoaBistaratu(LRegistered;)Ljava/lang/String;
+dataAccess.DataAccess#EmaitzakIpini(LQuote;)V
+dataAccess.DataAccess#egoerakAldatu(Ldomain/Question;)V
+java.util.Date#<init>()V
+exceptions.EventNotFinished#instance-init#
+exceptions.EventNotFinished#<init>()V
+java.util.Date#instance-init#

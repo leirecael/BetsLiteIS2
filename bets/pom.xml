@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>Bets21</groupId>
-  <artifactId>Bets21</artifactId>
+  <artifactId>BetsLiteIS2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
 <build>
@@ -52,9 +52,10 @@
 <properties>
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
-        <sonar.organization>leirecartagena</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>  
-    <sonar.login>???????</sonar.login> 
+    <sonar.organization>leirecartagena</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url> 
+    <sonar.projectKey>BetsLiteIS2</sonar.projectKey> 
+    <sonar.login>aef34fd6289218229d19b5da9f030aae082f1bb9</sonar.login> 
 </properties>
 
 <!-- https://mvnrepository.com/artifact/junit/junit -->
@@ -127,6 +128,13 @@
  			 <version>3.8.0</version>
 		 </dependency>
 		 
+		 <!-- https://mvnrepository.com/artifact/org.mockito/mockito-all --> 
+    <dependency> 
+        <groupId>org.mockito</groupId> 
+        <artifactId>mockito-all</artifactId> 
+        <version>1.9.5</version> 
+        <scope>test</scope> 
+    </dependency> 
 
 
 	</dependencies>

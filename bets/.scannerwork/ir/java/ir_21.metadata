@@ -1,1 +1,1 @@
-dataAccess.DataAccess#findQuestionFromQuote(LQuote;)Ldomain/Question;
+dataAccess.DataAccess#findTeam(LRegistered;)Ldomain/Team;

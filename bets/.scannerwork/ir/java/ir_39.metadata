@@ -1,1 +1,6 @@
-dataAccess.DataAccess#ezJarraituTaldea(LRegistered;)V
+dataAccess.DataAccess#gertaerakKopiatu(LEvent;Ljava/util/Date;)Z
+null
+domain.Team#<init>(Ljava/lang/String;)V
+domain.Question#<init>(Ljava/lang/String;DLEvent;)V
+domain.Team#instance-init#
+domain.Question#instance-init#

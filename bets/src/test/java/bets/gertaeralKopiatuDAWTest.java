@@ -26,14 +26,11 @@ import domain.Event;
 import exceptions.EventFinished;
 import gui.ApplicationLauncher;
 import gui.MainGUI;
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
-import org.mockito.junit.MockitoJUnitRunner;
 
 import org.junit.Test;
 
 public class gertaeralKopiatuDAWTest {
-	private BLFacade businessLogic = MainGUI.getBusinessLogic();
+	/*private BLFacade businessLogic = MainGUI.getBusinessLogic();
 	
 
 	
@@ -54,7 +51,7 @@ public class gertaeralKopiatuDAWTest {
 		businessLogic = MainGUI.getBusinessLogic();
 		List<Event> a = businessLogic.getEventsAll();
 		assertTrue(businessLogic.gertaerakKopiatu(a.get(0), date));
-	}
+	}*/
 	
 	
 }

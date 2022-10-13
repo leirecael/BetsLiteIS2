@@ -1,1 +1,1 @@
-domain.Event#getKanpokoa()LTeam;
+domain.Event#DoesQuestionExists(Ljava/lang/String;)Z

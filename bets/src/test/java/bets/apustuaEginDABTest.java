@@ -1,13 +1,6 @@
 package bets;
 
-import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.Date;
-import java.util.Vector;
-
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
 
 import dataAccess.DataAccess;
 import domain.Event;
@@ -15,10 +8,11 @@ import domain.Question;
 import domain.Quote;
 import domain.Registered;
 import domain.Team;
-import test.dataAccess.TestDataAccess;
 
-class apustuaEginDABTest {
-	DataAccess sut;
+
+
+public class apustuaEginDABTest {
+	/*DataAccess sut;
 	TestDataAccess test;
 	Registered user1, user2;
 	Vector<Quote> quotes;
@@ -109,5 +103,5 @@ class apustuaEginDABTest {
 		finally {
 			test.removeUser(user1);
 		}
-	}
+	}*/
 }

@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findTeam(Ldomain/Registered;)LTeam;
+businessLogic.BLFacadeImplementation#findEvent(Ldomain/Quote;)LEvent;

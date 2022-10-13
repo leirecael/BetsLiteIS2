@@ -1,3 +1,1 @@
-gui.TaldeaJarraituGUI#instance-init#
-javax.swing.DefaultListModel#instance-init#
-javax.swing.DefaultListModel#<init>()V
+domain.Jarraitzailea#setNori(LRegistered;)V

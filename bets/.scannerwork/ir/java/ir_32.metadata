@@ -1,3 +1,4 @@
-dataAccess.DataAccess#gertaeraEzabatu(LEvent;)Z
+dataAccess.DataAccess#ApustuaIrabazi(LApustuAnitza;)V
+null
 java.util.Date#<init>()V
 java.util.Date#instance-init#

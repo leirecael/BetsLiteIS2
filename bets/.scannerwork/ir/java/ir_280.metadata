@@ -1,1 +1,2 @@
-gui.AdminGUI#instance-init#
+domain.TeamRenderer#instance-init#
+gui.MainGUI#getBusinessLogic()LBLFacade;

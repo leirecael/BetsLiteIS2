@@ -1,11 +1,11 @@
 
-[businessLogic.BLFacadeImplementation#saldoaBistaratu(Ldomain/Registered;)Ljava/lang/String;g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java÷ ÷(!"startingBlock*Ä
+ZbusinessLogic.BLFacadeImplementation#findTransakzioak(Ldomain/Registered;)Ljava/util/List;g
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaã ã(-"startingBlock*Ä
 startingBlockg
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java÷! ÷(/§
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaã- ã(;§
 ¤
 g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaö ö(
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaâ â(
 %0"
 __annotate*
 	WebMethod*
@@ -13,21 +13,21 @@ __annotate*
 udomain.Registeredš
 —
 g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java÷- ÷(.
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaã9 ã(:
 udomain.Registered"__annotation*
 
 %0*
-1*
+1*
 1g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaø ø(•
-’
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaä ä(
+Œ
 g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaù ù(1
-diruajava.lang.String"__id*
-"""†
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaå å(9
+ljava.util.List"__id*
+"""€
 g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaû û(
-
-diruajava.lang.String:
+[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaç ç(
+
+ljava.util.List:
 udomain.RegisteredB(&
 $businessLogic.BLFacadeImplementation

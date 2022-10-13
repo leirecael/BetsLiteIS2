@@ -1,0 +1,47 @@
+
+KdataAccess.DataAccess#findTransakzioak(Ldomain/Registered;)Ljava/util/List;X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaö ö(*"1*Ô
+1X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaú# ú(%≠
+™
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaú# ú(%%
+%0javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+db§°
+Y
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaú# ú(ë"
+%1javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
+%
+%0javax.persistence.EntityManager*MK
+ISELECT t FROM Transaction t WHERE t.getErabiltzailea().getUsername() =?1 *
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)≤
+Ø
+Y
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaú ú(í&
+Tqueryjavax.persistence.TypedQuery"__id*$
+"
+%1javax.persistence.TypedQuery—Œ
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaù ù((
+%2java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
+
+udomain.Registered2getUsername()Ã…
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaù ù()"
+%3javax.persistence.TypedQuery"\javax.persistence.TypedQuery#setParameter(ILjava/lang/Object;)Ljavax/persistence/TypedQuery;*(
+&
+Tqueryjavax.persistence.TypedQuery*2*
+
+%2java.lang.String2!setParameter(ILjava/lang/Object;)ÏÈ
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaû	 û(
+%4java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*(
+&
+Tqueryjavax.persistence.TypedQuery2getResultList()"r
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaû û( 
+
+%4java.util.List:
+udomain.RegisteredB
+dataAccess.DataAccess

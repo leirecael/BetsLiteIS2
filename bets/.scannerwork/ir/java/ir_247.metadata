@@ -1,1 +1,2 @@
-businessLogic.BLFacadeImplementation#isRegister(Ljava/lang/String;)Z
+businessLogic.BLFacadeImplementation#close()V
+null

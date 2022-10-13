@@ -1,1 +1,2 @@
-domain.Sport#getIzena()Ljava/lang/String;
+domain.Sport#instance-init#
+java.util.Vector#<init>()V

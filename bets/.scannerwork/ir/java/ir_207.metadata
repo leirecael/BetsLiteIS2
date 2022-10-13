@@ -1,1 +1,1 @@
-domain.Event#setKanpokoa(LTeam;)V
+domain.Event#getLokala()LTeam;

@@ -1,1 +1,2 @@
-domain.Team#getIzena()Ljava/lang/String;
+domain.Team#instance-init#
+java.util.Vector#<init>()V

@@ -1,0 +1,41 @@
+
+LdataAccess.DataAccess#findQuestionFromQuote(Ldomain/Quote;)Ldomain/Question;X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.java¦ ¦(&"1*÷	
+1X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.java§ §(­
+ª
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.java§ §(%
+%0javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbÏÌ
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.java§# §(5
+%1java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+qdomain.Quote2getQuoteNumber()ÅÂ
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.java§ §(6
+%2domain.Quote"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
+%
+%0javax.persistence.EntityManager*
+""*
+
+%1java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)Ž
+‹
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.java§ §(7
+quodomain.Quote"__id*
+
+%2domain.QuoteÇÄ
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.java¨	 ¨(
+%3domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
+
+quodomain.Quote2getQuestion()"s
+X
+LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.java¨ ¨(
+
+%3domain.Question:
+qdomain.QuoteB
+dataAccess.DataAccess

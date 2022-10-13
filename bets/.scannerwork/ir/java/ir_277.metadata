@@ -1,2 +1,1 @@
-domain.TeamRenderer#instance-init#
-gui.MainGUI#getBusinessLogic()LBLFacade;
+businessLogic.BLFacadeImplementation#findEventFromApustua(LApustua;)LEvent;

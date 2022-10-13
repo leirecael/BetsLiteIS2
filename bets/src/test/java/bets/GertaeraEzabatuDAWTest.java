@@ -16,7 +16,6 @@ import domain.Event;
 import domain.Question;
 import exceptions.EventFinished;
 import exceptions.QuestionAlreadyExist;
-import test.dataAccess.TestDataAccess;
 
 
 public class GertaeraEzabatuDAWTest {

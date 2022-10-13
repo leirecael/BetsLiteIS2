@@ -11,10 +11,9 @@ import org.junit.Test;
 
 import dataAccess.DataAccess;
 import domain.*;
-import test.dataAccess.TestDataAccess;
 
 public class apustuaEginDAWTest {
-	DataAccess sut;
+	/*DataAccess sut;
 	TestDataAccess test;
 	Registered user1, user2;
 	Vector<Quote> quotes;
@@ -215,5 +214,5 @@ public class apustuaEginDAWTest {
 			e.printStackTrace();
 			fail();
 		}
-	}
+	}*/
 }

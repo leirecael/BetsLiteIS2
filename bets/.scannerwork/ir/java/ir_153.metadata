@@ -1,1 +1,7 @@
-bets.ApostuaEginMockIntTest#test2()V
+bets.ApostuaEginMockIntTest#setUp()V
+null
+java.util.Vector#<init>()V
+java.util.Date#<init>()V
+domain.Event#<init>(Ljava/lang/Integer;Ljava/lang/String;Ljava/util/Date;LTeam;LTeam;)V
+java.util.Date#instance-init#
+domain.Event#instance-init#

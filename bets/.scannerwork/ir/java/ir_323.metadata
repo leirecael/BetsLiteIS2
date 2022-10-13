@@ -1,1 +1,1 @@
-domain.Quote#addApustua(LApustua;)V
+domain.Quote#getQuestion()LQuestion;

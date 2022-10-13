@@ -1,1 +1,1 @@
-domain.Question#listaraGehitu(LQuote;)V
+domain.Question#getEvent()LEvent;

@@ -1,1 +1,1 @@
-dataAccess.DataAccess#findTransakzioak(LRegistered;)Ljava/util/List;
+dataAccess.DataAccess#findApustua(LRegistered;)Ljava/util/List;

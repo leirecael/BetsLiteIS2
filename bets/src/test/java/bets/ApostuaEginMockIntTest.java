@@ -1,16 +1,12 @@
 package bets;
 
-import static org.junit.jupiter.api.Assertions.*;
+
 
 import java.util.Date;
 import java.util.Vector;
 
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-import org.junit.runner.RunWith;
-import org.mockito.Mockito;
-import org.mockito.runners.MockitoJUnitRunner;
+
+
 
 import businessLogic.BLFacadeImplementation;
 import dataAccess.DataAccess;
@@ -20,9 +16,9 @@ import domain.Quote;
 import domain.Registered;
 import domain.Team;
 
-@RunWith(MockitoJUnitRunner.class)
+
 public class ApostuaEginMockIntTest {
-	DataAccess mockDA = Mockito.mock(DataAccess.class);
+	/*DataAccess mockDA = Mockito.mock(DataAccess.class);
 	BLFacadeImplementation sut = new BLFacadeImplementation(mockDA);
 	
 	Registered user1, user2;
@@ -79,5 +75,5 @@ public class ApostuaEginMockIntTest {
 		Mockito.doReturn(true).when(mockDA).jarraitu(user2, user1, Mockito.any(Double.class));
 		
 		assertTrue(sut.ApustuaEgin(user1, quotes, 1.0, 0));
-	}
+	}*/
 }

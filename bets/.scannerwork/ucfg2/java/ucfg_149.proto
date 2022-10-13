@@ -1,82 +1,23 @@
 
-(domain.Event#equals(Ljava/lang/Object;)ZO
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaö ö("startingBlock*Ø
-2O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java†
- †("Y
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java† †(
-""*Ÿ
-3O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaü ü(∑¥
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaü ü(
-%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-domain.Event2
-getClass()¿Ω
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaü ü("
-%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-
-objjava.lang.Object2
-getClass()*
-2
-1*ç
-startingBlockO
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaö ö("ô
-ñ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaô ô(
-
-%4"
-__annotate*
-java.lang.Override*
-
-objjava.lang.ObjectÉ
-Ä
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaö ö(!
-objjava.lang.Object"__annotation*
-
-%4*	
+4domain.Event#DoesQuestionExists(Ljava/lang/String;)ZM
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javay y(""5*´
+3M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java| |("W
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java| |(
+""*Ü
+5M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaz z(©¶
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaz z(%
+%0"-domain.Event#getQuestions()Ljava/util/Vector;*
+domain.Event2getQuestions()*
 3
-4
-6*Ø
-4O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaû
- û("Y
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaû û(
-""*Ø
-6O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaú
- ú("Y
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaú ú(
-""*˜
-1O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java° °(å
-â
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java° °(
-otherdomain.Event"__id*
-
-objjava.lang.Objectñ
-ì
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java¢	 ¢(
-%2java.lang.Integer"__id*!*
-domain.Event"
-eventNumberù
-ö
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java¢ ¢()
-%3java.lang.Integer"__id*(*&
-
-otherdomain.Event"
-eventNumber"Y
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java¢ ¢(*
-"":
-objjava.lang.ObjectB
+1*´
+1M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java~	 ~("W
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.java~ ~(
+"":
+questionjava.lang.StringB
 domain.Event

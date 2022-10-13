@@ -1,1 +1,1 @@
-exceptions.EventNotFinished#<init>()V
+domain.Team#removeUser(LRegistered;)V

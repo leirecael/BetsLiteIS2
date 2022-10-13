@@ -1,2 +1,1 @@
-domain.Team#instance-init#
-java.util.Vector#<init>()V
+dataAccess.DataAccess#jarraituTaldea(LRegistered;Ldomain/Team;)V

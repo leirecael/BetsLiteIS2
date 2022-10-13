@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findEvent(Ldomain/Quote;)LEvent;
+businessLogic.BLFacadeImplementation#jarraituTaldea(Ldomain/Registered;LTeam;)V

@@ -1,4 +1,1 @@
-gui.PopularGUI#instance-init#
-gui.MainGUI#getBusinessLogic()LBLFacade;
-javax.swing.DefaultListModel#instance-init#
-javax.swing.DefaultListModel#<init>()V
+domain.Quote#removeApustua(LApustua;)V

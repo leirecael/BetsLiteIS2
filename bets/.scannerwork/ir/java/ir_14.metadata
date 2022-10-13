@@ -1,5 +1,3 @@
 dataAccess.DataAccess#gertaerakSortu(Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)Z
-null
-java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
-domain.Team#<init>(Ljava/lang/String;)V
-domain.Team#instance-init#
+dataAccess.DataAccess#createEvent(Ljava/lang/String;Ljava/util/Date;LSport;)V
+dataAccess.DataAccess#isEventValid(Ljava/lang/String;Ljava/util/Date;Z)Z

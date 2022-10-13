@@ -16,13 +16,13 @@ import businessLogic.BLFacadeImplementation;
 import dataAccess.DataAccess;
 import exceptions.EventFinished;
 
-import org.junit.runner.RunWith;
+
 import org.mockito.ArgumentCaptor;
 import org.mockito.Mockito;
 
-import org.mockito.runners.MockitoJUnitRunner;
 
-@RunWith(MockitoJUnitRunner.class)
+
+
 public class GertaerakSortuMockIntTest {
 	DataAccess dataAccess=Mockito.mock(DataAccess.class);
 	
@@ -81,7 +81,7 @@ public class GertaerakSortuMockIntTest {
 		Date eventDate=null;;
 		try {
 			//fecha de creacion, 9/10/2022, si da error cambiar fecha a un dia posterior al actual
-			eventDate = sdf.parse("10/10/2022");
+			eventDate = sdf.parse("14/10/2022");
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

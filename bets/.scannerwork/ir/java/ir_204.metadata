@@ -1,1 +1,2 @@
-domain.Event#getLokala()LTeam;
+domain.Event#addQuestion(Ljava/lang/String;D)LQuestion;
+null

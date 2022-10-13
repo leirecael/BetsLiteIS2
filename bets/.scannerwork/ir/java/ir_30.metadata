@@ -1,4 +1,1 @@
-dataAccess.DataAccess#ApustuaIrabazi(LApustuAnitza;)V
-null
-java.util.Date#<init>()V
-java.util.Date#instance-init#
+dataAccess.DataAccess#findApustuAnitza(LRegistered;)Ljava/util/List;

@@ -1,5 +1,1 @@
-dataAccess.DataAccess#EmaitzakIpini(LQuote;)V
-java.util.Date#<init>()V
-exceptions.EventNotFinished#instance-init#
-exceptions.EventNotFinished#<init>()V
-java.util.Date#instance-init#
+dataAccess.DataAccess#findTransakzioak(LRegistered;)Ljava/util/List;

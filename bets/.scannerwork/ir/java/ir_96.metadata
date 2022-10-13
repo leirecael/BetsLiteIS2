@@ -1,1 +1,1 @@
-test.dataAccess.TestDataAccess#removeUser(LRegistered;)Z
+test.dataAccess.TestDataAccess#eventExists(Ljava/util/Date;Ljava/lang/String;)Z

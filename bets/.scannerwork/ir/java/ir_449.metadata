@@ -1,1 +1,1 @@
-domain.Apustua#getApustuAnitza()LApustuAnitza;
+domain.Apustua#setKuota(LQuote;)V

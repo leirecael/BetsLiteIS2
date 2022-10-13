@@ -1,0 +1,92 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-10-01 20:32:04 #1 store] 
+Database 'C:\Users\Leire\git\Bet22Lite\src\main\resources\bets.temp' is opened by 1876@DESKTOP-7BEFLBH
+
+[2022-10-01 20:32:05 #2 type.registry] 
+New type domain.Team
+
+[2022-10-01 20:32:05 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-10-01 20:32:05 #4 type.registry] 
+New type domain.Event
+
+[2022-10-01 20:32:05 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2022-10-01 20:32:05 #6 type.registry] 
+New type domain.Registered
+
+[2022-10-01 20:32:05 #7 type.registry] 
+New type java.util.Vector<domain.Registered>
+
+[2022-10-01 20:32:05 #8 type] 
+Type domain.Event is not enhanced.
+
+[2022-10-01 20:32:05 #9 type.registry] 
+New type domain.Sport
+
+[2022-10-01 20:32:05 #10 type.registry] 
+New type domain.Question
+
+[2022-10-01 20:32:05 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-10-01 20:32:05 #12 type] 
+Type domain.Registered is not enhanced.
+
+[2022-10-01 20:32:05 #13 type.registry] 
+New type domain.Jarraitzailea
+
+[2022-10-01 20:32:05 #14 type.registry] 
+New type java.util.Vector<domain.Jarraitzailea>
+
+[2022-10-01 20:32:05 #15 type.registry] 
+New type domain.ApustuAnitza
+
+[2022-10-01 20:32:05 #16 type.registry] 
+New type java.util.Vector<domain.ApustuAnitza>
+
+[2022-10-01 20:32:05 #17 type.registry] 
+New type domain.Transaction
+
+[2022-10-01 20:32:05 #18 type.registry] 
+New type java.util.Vector<domain.Transaction>
+
+[2022-10-01 20:32:05 #19 type] 
+Type domain.Sport is not enhanced.
+
+[2022-10-01 20:32:05 #20 type] 
+Type domain.Question is not enhanced.
+
+[2022-10-01 20:32:05 #21 type.registry] 
+New type domain.Quote
+
+[2022-10-01 20:32:05 #22 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2022-10-01 20:32:05 #23 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-10-01 20:32:05 #24 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-10-01 20:32:05 #25 type.registry] 
+New type domain.Apustua
+
+[2022-10-01 20:32:05 #26 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2022-10-01 20:32:05 #27 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-10-01 20:32:05 #28 type] 
+Type domain.Quote is not enhanced.
+
+[2022-10-01 20:32:05 #29 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-10-01 20:32:05 #30 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

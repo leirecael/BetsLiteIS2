@@ -1,3 +1,2 @@
-dataAccess.ObjectdbManagerServer#instance-init#
-javax.swing.JPanel#<init>()V
-javax.swing.JPanel#instance-init#
+gui.MugimenduakBistaratuGUI#instance-init#
+javax.swing.DefaultListModel#<init>()V

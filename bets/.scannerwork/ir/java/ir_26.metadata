@@ -1,4 +1,2 @@
-dataAccess.DataAccess#apustuaEzabatu(LRegistered;LApustuAnitza;)V
+dataAccess.DataAccess#DiruaSartu(LRegistered;Ljava/lang/Double;Ljava/util/Date;Ljava/lang/String;)V
 null
-java.util.Date#<init>()V
-java.util.Date#instance-init#

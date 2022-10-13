@@ -11,13 +11,10 @@ import java.util.Date;
 
 import org.junit.Test;
 
-import configuration.ConfigXML;
+
 import dataAccess.DataAccess;
 import domain.Event;
-import domain.Question;
-import exceptions.EventFinished;
-import exceptions.QuestionAlreadyExist;
-import test.dataAccess.TestDataAccess;
+
 
 
 public class GertaerakSortuDABTest {

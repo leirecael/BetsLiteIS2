@@ -1,1 +1,1 @@
-test.dataAccess.TestDataAccess#storeEvent(LEvent;)V
+test.dataAccess.TestDataAccess#getEvent(Ljava/util/Date;Ljava/lang/String;)LEvent;
