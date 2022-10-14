@@ -2,18 +2,17 @@ package bets;
 
 import static org.junit.Assert.*;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Vector;
 
 import org.junit.After;
 import org.junit.Before;
-import org.junit.Rule;
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
 
 import dataAccess.DataAccess;
 import domain.*;
-
 
 public class ApustuaEginDABTest {
 	DataAccess sut;
@@ -21,13 +20,7 @@ public class ApustuaEginDABTest {
 	Registered r1, r2;
 	Quote quo1, quo2, quo3;
 	Vector<Quote> q;
-	
-	/**
-	 * Exception for JUnit4: If JUnit version is changed for a more recent one change for assertThrows().
-	 */
-	@Rule
-	public final ExpectedException exception = ExpectedException.none();
-	
+
 	@Before
 	public void setUp() throws Exception {
 		sut = new DataAccess(false);
@@ -38,9 +31,19 @@ public class ApustuaEginDABTest {
 		sut.storeRegistered(r1.getUsername(), r1.getPassword(), r1.getBankAccount());
 		sut.storeRegistered(r2.getUsername(), r2.getPassword(), r2.getBankAccount());
 		
-		quo1 = testDA.storeQuote("t1", "t2", "t1 vs. t2", new Date(2022, 1, 1), "Dance", "Who will win?", 1.0, 1.5, "t1");
-		quo2 = testDA.storeQuote("t3", "t4", "t3 vs. t4", new Date(2022, 1, 2), "Baseball", "Who will win?", 1.0, 1.5, "t3");
-		quo3 = testDA.storeQuote("t5", "t6", "t5 vs. t6", new Date(2022, 1, 2), "Golf", "Who will win?", 1.0, 1.5, "t5");
+		//Date creation:
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+		Date eventDate;
+		
+		try {
+			eventDate = sdf.parse("01/01/2022");
+			quo1 = testDA.storeQuote("t1", "t2", "t1 vs. t2", eventDate, "Dance", "Who will win?", 1.0, 1.5, "t1");
+			quo2 = testDA.storeQuote("t3", "t4", "t3 vs. t4", eventDate, "Baseball", "Who will win?", 1.0, 1.5, "t3");
+			quo3 = testDA.storeQuote("t5", "t6", "t5 vs. t6", eventDate, "Golf", "Who will win?", 1.0, 1.5, "t5");
+		} catch (ParseException e) {
+			e.printStackTrace();
+		}
+
 		q = new Vector<Quote>();
 	}
 
@@ -57,8 +60,11 @@ public class ApustuaEginDABTest {
 
 	@Test
 	public void test01() {
-		exception.expect(NullPointerException.class);
-		sut.ApustuaEgin(null, null, null, null);
+		try {
+			sut.ApustuaEgin(null, null, null, null);
+			fail();
+		}
+		catch(NullPointerException e) {}
 	}
 	
 	@Test
@@ -66,8 +72,11 @@ public class ApustuaEginDABTest {
 		Registered unregistered1 = new Registered("unreg1", "123", 003);
 		q.add(quo1);
 		
-		exception.expect(NullPointerException.class);
-		sut.ApustuaEgin(unregistered1, q, 2.0, -1);
+		try {
+			sut.ApustuaEgin(unregistered1, q, 2.0, -1);
+			fail();
+		}
+		catch(NullPointerException e) {}
 	}
 	
 	@Test

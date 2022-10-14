@@ -2,6 +2,8 @@ package bets;
 
 import static org.junit.Assert.*;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Vector;
 
@@ -11,7 +13,6 @@ import org.junit.Test;
 
 import dataAccess.DataAccess;
 import domain.*;
-
 
 public class ApustuaEginDAWTest {
 	DataAccess sut;
@@ -30,9 +31,19 @@ public class ApustuaEginDAWTest {
 		sut.storeRegistered(r1.getUsername(), r1.getPassword(), r1.getBankAccount());
 		sut.storeRegistered(r2.getUsername(), r2.getPassword(), r2.getBankAccount());
 		
-		quo1 = testDA.storeQuote("t1", "t2", "t1 vs. t2", new Date(2022, 1, 1), "Dance", "Who will win?", 1.0, 1.5, "t1");
-		quo2 = testDA.storeQuote("t3", "t4", "t3 vs. t4", new Date(2022, 1, 2), "Baseball", "Who will win?", 1.0, 1.5, "t3");
-		quo3 = testDA.storeQuote("t5", "t6", "t5 vs. t6", new Date(2022, 1, 2), "Golf", "Who will win?", 1.0, 1.5, "t5");
+		//Date creation:
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+		Date eventDate;
+		
+		try {
+			eventDate = sdf.parse("01/01/2022");
+			quo1 = testDA.storeQuote("t1", "t2", "t1 vs. t2", eventDate, "Dance", "Who will win?", 1.0, 1.5, "t1");
+			quo2 = testDA.storeQuote("t3", "t4", "t3 vs. t4", eventDate, "Baseball", "Who will win?", 1.0, 1.5, "t3");
+			quo3 = testDA.storeQuote("t5", "t6", "t5 vs. t6", eventDate, "Golf", "Who will win?", 1.0, 1.5, "t5");
+		} catch (ParseException e) {
+			e.printStackTrace();
+		}
+		
 		q = new Vector<Quote>();
 	}
 
