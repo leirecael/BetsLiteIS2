@@ -1,1 +1,1 @@
-domain.Transaction#toString()Ljava/lang/String;
+domain.Transaction#setTransactionNumber(Ljava/lang/Integer;)V

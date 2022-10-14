@@ -1,1 +1,2 @@
-domain.Question#<init>(Ljava/lang/String;DLEvent;)V
+domain.Question#addQuote(Ljava/lang/Double;Ljava/lang/String;Ldomain/Question;)LQuote;
+null

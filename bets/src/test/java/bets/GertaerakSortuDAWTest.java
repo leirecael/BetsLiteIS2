@@ -35,9 +35,9 @@ public class GertaerakSortuDAWTest {
 		try {
 			eventDate = sdf.parse("30/10/2022");
 		} catch (ParseException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
 		try {	
 			//invoke System Under Test (sut)
 			sut.open(true);
@@ -75,7 +75,6 @@ public class GertaerakSortuDAWTest {
 		try {
 			eventDate = sdf.parse("30/10/2022");
 		} catch (ParseException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		try {	
@@ -124,7 +123,6 @@ public class GertaerakSortuDAWTest {
 		try {
 			eventDate = sdf.parse("30/11/2022");
 		} catch (ParseException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		try {	
@@ -182,7 +180,6 @@ public class GertaerakSortuDAWTest {
 		try {
 			eventDate = sdf.parse("30/11/2022");
 		} catch (ParseException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		try {	

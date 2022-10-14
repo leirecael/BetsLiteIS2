@@ -1,1 +1,1 @@
-domain.Apustua#setEgoera(Ljava/lang/String;)V
+gui.DiruaSartuGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V

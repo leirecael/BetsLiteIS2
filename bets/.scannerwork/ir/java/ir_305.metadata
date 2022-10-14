@@ -1,1 +1,1 @@
-domain.Sport#setApustuKantitatea(Ljava/lang/Integer;)V
+domain.Quote#setApustuak(Ljava/util/Vector;)V

@@ -1,1 +1,3 @@
-bets.gertaeralKopiatuDABTest#instance-init#
+domain.ApustuAnitza#<init>(LRegistered;Ljava/lang/Double;)V
+java.util.Date#<init>()V
+java.util.Date#instance-init#

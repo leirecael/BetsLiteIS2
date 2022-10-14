@@ -1,89 +1,9 @@
 
-Dgui.MainUserGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java∞ ∞(."3*∂
-2R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java≤, ≤(5ëé
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java≤ ≤(+
-%1javax.swing.JRadioButton"javax.swing.JRadioButton¬
-ø
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java≤ ≤(6
-%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
-
-%1javax.swing.JRadioButton*	
-Euskara≠
-™
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java≤ ≤(6,
-gui.MainUserGUI"
-rdbtnNewRadioButton_1"__id* 
-
-%1javax.swing.JRadioButton≠
-™
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java≥ ≥(
-%3javax.swing.JRadioButton"__id*.*,
-gui.MainUserGUI"
-rdbtnNewRadioButton_1ÉÄ
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java≥/ ≥(=
-%4gui.MainUserGUI$6"gui.MainUserGUI$6î
-ë
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java≥+ ∏(
-%5"java.lang.Object#<init>()V*
-
-%4gui.MainUserGUI$6§°
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java≥ ∏(
-
-%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
-
-%3javax.swing.JRadioButton*
-
-%4gui.MainUserGUI$622addActionListener(Ljava/awt/event/ActionListener;)¢
-ü
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.javaπ π(
-%7javax.swing.ButtonGroup"__id*$*"
-gui.MainUserGUI"
-buttonGroup≠
-™
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.javaπ π((
-%8javax.swing.JRadioButton"__id*.*,
-gui.MainUserGUI"
-rdbtnNewRadioButton_1ÖÇ
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.javaπ π()
-
-%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
-
-%7javax.swing.ButtonGroup* 
-
-%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
-1*è
-3R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java± ±(≠
-™
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java± ±(
-%0javax.swing.JRadioButton"__id*.*,
-gui.MainUserGUI"
-rdbtnNewRadioButton_1*
-2
-1*Å
-1R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.javaª	 ª(Æ
-´
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.javaª	 ª(
-%10javax.swing.JRadioButton"__id*.*,
-gui.MainUserGUI"
-rdbtnNewRadioButton_1"w
-R
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.javaª ª(!
-
-%10javax.swing.JRadioButtonB
-gui.MainUserGUI
+*configuration.ConfigXML#isDatabaseLocal()ZX
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaA A("1*¡
+1X
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaB	 B("b
+X
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.javaB B(
+""B
+configuration.ConfigXML

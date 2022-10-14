@@ -1,1 +1,1 @@
-domain.Apustua#getKuota()LQuote;
+gui.TaldeaApostatuGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V

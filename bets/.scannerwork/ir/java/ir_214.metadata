@@ -1,2 +1,1 @@
-gui.MugimenduakBistaratuGUI#instance-init#
-javax.swing.DefaultListModel#<init>()V
+exceptions.EventFinished#<init>()V

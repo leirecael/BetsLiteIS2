@@ -1,1 +1,1 @@
-domain.Quote#setQuoteNumber(Ljava/lang/Integer;)V
+exceptions.QuoteAlreadyExist#instance-init#

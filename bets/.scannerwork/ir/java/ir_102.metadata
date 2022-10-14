@@ -1,2 +1,1 @@
-domain.Question#instance-init#
-java.util.Vector#<init>()V
+domain.Question#getResult()Ljava/lang/String;

@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#<init>(LDataAccess;)V
+businessLogic.BLFacadeImplementation#rankingLortu()Ljava/util/List;

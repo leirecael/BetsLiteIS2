@@ -1,16 +1,0 @@
-
-:gui.MainUserGUI#getBusinessLogic()LbusinessLogic/BLFacade;P
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java% %(("1*ò
-1P
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java&	 &(¦
-£
-P
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java&	 &(
-%0businessLogic.BLFacade"__id*+*)
-gui.MainUserGUI"
-appFacadeInterface"r
-P
-FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainUserGUI.java& &(
-
-%0businessLogic.BLFacadeB"
-gui.MainUserGUI

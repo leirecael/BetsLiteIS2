@@ -1,1 +1,3 @@
-domain.Event#getKanpokoa()LTeam;
+gui.ApustuakEzabatuGUI#instance-init#
+javax.swing.DefaultComboBoxModel#<init>()V
+javax.swing.DefaultComboBoxModel#instance-init#

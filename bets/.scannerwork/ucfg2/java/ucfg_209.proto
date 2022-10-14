@@ -1,308 +1,129 @@
 
-2gui.AdminGUI#getJContentPane()Ljavax/swing/JPanel;M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javad d("3*ûH
-2M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaf f(}
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaf f(
-%1javax.swing.JPanel"javax.swing.JPanelí
-è
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaf f(
-%2"javax.swing.JPanel#<init>()V*
-
-%1javax.swing.JPanelñ
-ì
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaf f( 
-gui.AdminGUI"
-jContentPane"__id*
-
-%1javax.swing.JPanelñ
-ì
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javag g(
-%3javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPaneu
-s
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javag g()
-%4java.awt.Color"__id*
-""ÏÈ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javag g(*
-
-%5void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
-
-%3javax.swing.JPanel*
-
-%4java.awt.Color2setBackground(Ljava/awt/Color;)ñ
-ì
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javah h(
-%6javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPane‡›
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javah h(
-
-%7void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
-
-%6javax.swing.JPanel*
-""2#setLayout(Ljava/awt/LayoutManager;)ñ
-ì
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javai i(
-%8javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPane±
-Æ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javai i($
-%9javax.swing.JLabel"1gui.AdminGUI#getLblNewLabel()Ljavax/swing/JLabel;*
-gui.AdminGUIÇˇ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javai i(%
-%10java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
-
-%8javax.swing.JPanel*
-
-%9javax.swing.JLabel2add(Ljava/awt/Component;)ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaj j(
-%11javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPaneØ
-¨
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaj j(
-%12javax.swing.JButton"-gui.AdminGUI#getBoton3()Ljavax/swing/JButton;*
-gui.AdminGUIÖÇ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaj j( 
-%13java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
-
-%11javax.swing.JPanel*
-
-%12javax.swing.JButton2add(Ljava/awt/Component;)ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javak k(
-%14javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPaneØ
-¨
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javak k(
-%15javax.swing.JButton"-gui.AdminGUI#getBoton2()Ljavax/swing/JButton;*
-gui.AdminGUIÖÇ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javak k( 
-%16java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
-
-%14javax.swing.JPanel*
-
-%15javax.swing.JButton2add(Ljava/awt/Component;)ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javal l(
-%17javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPaneµ
-≤
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javal l(%
-%18javax.swing.JButton"3gui.AdminGUI#getBtnNewButton()Ljavax/swing/JButton;*
-gui.AdminGUIÖÇ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javal l(&
-%19java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
-
-%17javax.swing.JPanel*
-
-%18javax.swing.JButton2add(Ljava/awt/Component;)ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javam m(
-%20javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPane∑
-¥
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javam m('
-%21javax.swing.JButton"5gui.AdminGUI#getBtnNewButton_1()Ljavax/swing/JButton;*
-gui.AdminGUIÖÇ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javam m((
-%22java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
-
-%20javax.swing.JPanel*
-
-%21javax.swing.JButton2add(Ljava/awt/Component;)ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javan n(
-%23javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPaneº
-π
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javan n(,
-%24javax.swing.JButton":gui.AdminGUI#getJButtonEmaitzaIpini()Ljavax/swing/JButton;*
-gui.AdminGUIÖÇ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javan n(-
-%25java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
-
-%23javax.swing.JPanel*
-
-%24javax.swing.JButton2add(Ljava/awt/Component;)Ú
-Ô
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javap1 p(V
-%26java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+:gui.AdminGUI#getBtnGertaerakKopiatu()Ljavax/swing/JButton;O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java˝ ˝('"3*¥
+2O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaˇ% ˇ(3Û
+
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaˇ% ˇ(J
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
 java.util.ResourceBundle*
 	Etiquetasçä
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javap1 p(t
-%27java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
-
-%26java.util.ResourceBundle*
-GertaerakEzabatu2getString(Ljava/lang/String;)ÉÄ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javap) p(0
-%28javax.swing.JButton"javax.swing.JButton√
-¿
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javap% p(u
-%29"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
-
-%28javax.swing.JButton*
-
-%27java.lang.String¶
-£
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javap p(v.
-jButtonGertaerakEzabatujavax.swing.JButton"__id*
-
-%28javax.swing.JButtonv
-t
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaq) q(8
-%30java.awt.Color"__id*
-""ÑÅ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaq q(9
-%31void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*0
-.
-jButtonGertaerakEzabatujavax.swing.JButton*
-
-%30java.awt.Color2setForeground(Ljava/awt/Color;)v
-t
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javar) r(3
-%32java.awt.Color"__id*
-""ÑÅ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javar r(4
-%33void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*0
-.
-jButtonGertaerakEzabatujavax.swing.JButton*
-
-%32java.awt.Color2setBackground(Ljava/awt/Color;)xv
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javas1 s(?
-%34gui.AdminGUI$2"gui.AdminGUI$2é
-ã
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javas- x(
-%35"java.lang.Object#<init>()V*
-
-%34gui.AdminGUI$2Æ´
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javas x(
-%36void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*0
-.
-jButtonGertaerakEzabatujavax.swing.JButton*
-
-%34gui.AdminGUI$222addActionListener(Ljava/awt/event/ActionListener;)·ﬁ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javay y(7
-%37void"#java.awt.Component#setBounds(IIII)V*0
-.
-jButtonGertaerakEzabatujavax.swing.JButton*2Ô*2|*2Ë*22setBounds(IIII)ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaz z(
-%38javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPaneôñ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaz z(,
-%39java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaˇ% ˇ(h
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+GertaerakKopiatu2getString(Ljava/lang/String;)ÑÅ
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaˇ ˇ($
+%3javax.swing.JButton"javax.swing.JButton¬
+ø
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaˇ ˇ(i
+%4"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
 
-%38javax.swing.JPanel*0
-.
-jButtonGertaerakEzabatujavax.swing.JButton2add(Ljava/awt/Component;)ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java{ {(
-%40javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPane∏
-µ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java{ {((
-%41javax.swing.JButton"6gui.AdminGUI#getJButtonDesLogin()Ljavax/swing/JButton;*
-gui.AdminGUIÖÇ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java{ {()
-%42java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+%3javax.swing.JButton*
+
+%2java.lang.String†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaˇ ˇ(i'
+gui.AdminGUI"
+btnGertaerakKopiatu"__id*
 
-%40javax.swing.JPanel*
-
-%41javax.swing.JButton2add(Ljava/awt/Component;)ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java| |(
-%43javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPaneº
-π
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java| |(,
-%44javax.swing.JButton":gui.AdminGUI#getBtnGertaerakKopiatu()Ljavax/swing/JButton;*
-gui.AdminGUIÖÇ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java| |(-
-%45java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+%3javax.swing.JButton†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÄ Ä(
+%5javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+btnGertaerakKopiatuw
+u
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÄ% Ä(4
+%6java.awt.Color"__id*
+""ÔÏ
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÄ Ä(5
+
+%7void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
 
-%43javax.swing.JPanel*
+%5javax.swing.JButton*
+
+%6java.awt.Color2setForeground(Ljava/awt/Color;)†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÅ Å(
+%8javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+btnGertaerakKopiatuw
+u
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÅ% Å(/
+%9java.awt.Color"__id*
+""Ì
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÅ Å(0
+%10void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%8javax.swing.JButton*
+
+%9java.awt.Color2setBackground(Ljava/awt/Color;)°
+û
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÇ Ç(
+%11javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+btnGertaerakKopiatuzx
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÇ- Ç(;
+%12gui.AdminGUI$9"gui.AdminGUI$9ê
+ç
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÇ) á(
+%13"java.lang.Object#<init>()V*
+
+%12gui.AdminGUI$9úô
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaÇ á(
+%14void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
 
-%44javax.swing.JButton2add(Ljava/awt/Component;)*
-1*Û
-3M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javae e(ñ
-ì
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javae e(
-%0javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPane*
+%11javax.swing.JButton*
+
+%12gui.AdminGUI$922addActionListener(Ljava/awt/event/ActionListener;)°
+û
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaà à(
+%15javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+btnGertaerakKopiatu–Õ
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaà à(3
+%16void"#java.awt.Component#setBounds(IIII)V*
+
+%15javax.swing.JButton*2Ô*2§*2Ë*22setBounds(IIII)*
+1*ˇ
+3O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java˛ ˛(†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java˛ ˛(
+%0javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+btnGertaerakKopiatu*
 2
-1*⁄
-1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java~	 ~(ó
-î
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java~	 ~(
-%46javax.swing.JPanel"__id*"* 
-gui.AdminGUI"
-jContentPane"l
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java~ ~(
-
-%46javax.swing.JPanelB
+1*È
+1O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaä	 ä(°
+û
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaä	 ä(
+%17javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+btnGertaerakKopiatu"o
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaä ä(
+
+%17javax.swing.JButtonB
 gui.AdminGUI

@@ -1,1 +1,1 @@
-gui.CreateQuestionGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+domain.Transaction#getMota()Ljava/lang/String;

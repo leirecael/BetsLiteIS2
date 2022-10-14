@@ -1,1 +1,10 @@
-exceptions.QuoteAlreadyExist#<init>()V
+bets.ApustuaEginDAWTest#setUp()V
+null
+java.util.Vector#<init>()V
+bets.TestDataAccess#instance-init#
+bets.TestDataAccess#<init>()V
+java.util.Vector#instance-init#
+java.util.Date#<init>(III)V
+domain.Registered#instance-init#
+java.util.Date#instance-init#
+domain.Registered#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;)V

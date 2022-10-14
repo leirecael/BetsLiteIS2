@@ -1,9 +1,62 @@
 
-domain.Registered#isAdmin()ZT
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÎ Î("1*¹
-1T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÏ	 Ï("^
-T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÏ Ï(
-""B
-domain.Registered
+¬bets.TestDataAccess#storeQuote(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;Ljava/lang/String;DDLjava/lang/String;)Ldomain/Quote;V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java° °("8*à	
+8V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java± ±(|z
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java¶ ¶(
+%0domain.Sport"domain.Sport¾
+»
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java¶ ¶(
+%1"(domain.Sport#<init>(Ljava/lang/String;)V*
+
+%0domain.Sport*
+
+sportjava.lang.StringŠ
+‡
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java¶ ¶(
+sdomain.Sport"__id*
+
+%0domain.Sport²¯
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java· ·(
+%2"domain.Sport#addEvent(LEvent;)V*
+
+sdomain.Sport*
+""2addEvent(LEvent;)}
+{
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java» »(-
+quodomain.Quote"__id*
+""„
+
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java½ ½(
+%3java.io.PrintStream"__id*
+""öó
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java½ ½(5
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%3java.io.PrintStream*!
+>> DataAccessTest: storeQuote2println(Ljava/lang/String;)*
+1*Ì
+1V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.javaÊ	 Ê("o
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.javaÊ Ê(
+
+quodomain.Quote:
+team1java.lang.String:
+team2java.lang.String:$
+eventDescriptionjava.lang.String:
+djava.util.Date:
+sportjava.lang.String:
+questionjava.lang.String:
+"":
+"":
+forecastjava.lang.StringB
+bets.TestDataAccess

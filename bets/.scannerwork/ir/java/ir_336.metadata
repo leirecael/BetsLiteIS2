@@ -1,4 +1,3 @@
-gui.GertaeraInfo#instance-init#
-gui.MainGUI#getBusinessLogic()LBLFacade;
-javax.swing.DefaultListModel#instance-init#
-javax.swing.DefaultListModel#<init>()V
+bets.ApustuaEginDAWTest#test01()V
+java.util.Date#<init>()V
+java.util.Date#instance-init#

@@ -1,1 +1,1 @@
-gui.SugerenciasGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+domain.ApustuAnitza#getApustuAnitzaNumber()Ljava/lang/Integer;

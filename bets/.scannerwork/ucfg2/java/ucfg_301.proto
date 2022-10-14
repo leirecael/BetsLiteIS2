@@ -1,17 +1,32 @@
 
-1domain.Registered#getPassword()Ljava/lang/String;T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java¿ ¿("1*ê
-1T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÀ	 À(œ
-™
+Dbets.TestDataAccess#removeEvent(Ljava/util/Date;Ljava/lang/String;)ZT
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java> >("8*¹
+2T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.javaI I("^
 T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÀ	 À(
-%0java.lang.String"__id*#*!
-domain.Registered"
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.javaL L(
+""*Ý
+8T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java? ?(
+
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java? ?(
+%0java.io.PrintStream"__id*
+""õò
+T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java? ?(6
 
-password"p
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*" 
+>> DataAccessTest: removeEvent2println(Ljava/lang/String;)*
+2
+1*¹
+1T
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.javaN	 N("^
 T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÀ À(
-
-%0java.lang.StringB
-domain.Registered
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.javaN N(
+"":
+	eventDatejava.util.Date:
+descjava.lang.StringB
+bets.TestDataAccess

@@ -1,1 +1,1 @@
-exceptions.EventFinished#<init>()V
+businessLogic.BLFacadeImplementation#findApustua(LRegistered;)Ljava/util/List;

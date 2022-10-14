@@ -1,2 +1,1 @@
-domain.Event#instance-init#
-java.util.Vector#<init>()V
+domain.Event#getKanpokoa()LTeam;

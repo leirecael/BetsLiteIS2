@@ -1,2 +1,2 @@
-gui.AdminGUI#<init>(Ldomain/Registered;)V
-gui.AdminGUI#initialize()V
+domain.Sport#instance-init#
+java.util.Vector#<init>()V

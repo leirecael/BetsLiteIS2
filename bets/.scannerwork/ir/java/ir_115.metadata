@@ -1,1 +1,1 @@
-domain.Question#getEvent()LEvent;
+gui.RegisteredGUI#getBusinessLogic()LbusinessLogic/BLFacade;

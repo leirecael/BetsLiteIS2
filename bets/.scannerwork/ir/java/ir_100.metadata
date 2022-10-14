@@ -1,1 +1,1 @@
-test.dataAccess.TestDataAccess#storeEvent(LEvent;)V
+domain.Question#getBetMinimum()D

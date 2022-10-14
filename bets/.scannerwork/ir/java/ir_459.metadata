@@ -1,1 +1,1 @@
-gui.MainUserGUI#getBusinessLogic()LBLFacade;
+domain.Apustua#getEgoera()Ljava/lang/String;

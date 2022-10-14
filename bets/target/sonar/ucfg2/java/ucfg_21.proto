@@ -1,42 +1,0 @@
-
-@dataAccess.DataAccess#findTeam(Ldomain/Registered;)Ldomain/Team;X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaú ú("1*É
-
-1X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaù! ù(#≠
-™
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaù! ù(#%
-%0javax.persistence.EntityManager"__id*!*
-dataAccess.DataAccess"
-db—Œ
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaù; ù(J
-%1java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
-
-udomain.Registered2getUsername()…∆
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaù! ù(K
-%2domain.Registered"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
-%
-%0javax.persistence.EntityManager*
-""*
-
-%1java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)ô
-ñ
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaù ù(L
-userdomain.Registered"__id*
-
-%2domain.Registered∆√
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaû	 û(
-%3domain.Team"*domain.Registered#getTaldea()Ldomain/Team;*
-
-userdomain.Registered2getTaldea()"o
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaû û(
-
-%3domain.Team:
-udomain.RegisteredB
-dataAccess.DataAccess

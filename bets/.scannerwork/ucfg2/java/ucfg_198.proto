@@ -1,33 +1,142 @@
 
-[businessLogic.BLFacadeImplementation#saldoaBistaratu(Ldomain/Registered;)Ljava/lang/String;g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java˜ ˜(!"startingBlock*ƒ
-startingBlockg
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java˜! ˜(/ß
-§
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaˆ ˆ(
-%0"
-__annotate*
-	WebMethod*
-
-udomain.Registeredö
-ó
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java˜- ˜(.
-udomain.Registered"__annotation*
-
-%0*
-1*ç
-1g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java¯ ¯(ï
-í
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java˘ ˘(1
-diruajava.lang.String"__id*
-"""Ü
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.java˚ ˚(
+-gui.AdminGUI#getBoton3()Ljavax/swing/JButton;O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaù ù("3*ô
+2O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaü ü(&ÑÅ
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaü ü($
+%1javax.swing.JButton"javax.swing.JButtonñ
+ì
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaü ü(&
+%2"javax.swing.JButton#<init>()V*
 
-diruajava.lang.String:
-udomain.RegisteredB(&
-$businessLogic.BLFacadeImplementation
+%1javax.swing.JButton†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaü ü(&'
+gui.AdminGUI"
+jButtonQueryQueries"__id*
+
+%1javax.swing.JButton†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java† †(
+%3javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+jButtonQueryQueriesw
+u
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java†% †(4
+%4java.awt.Color"__id*
+""ÔÏ
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java† †(5
+
+%5void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%3javax.swing.JButton*
+
+%4java.awt.Color2setForeground(Ljava/awt/Color;)†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java° °(
+%6javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+jButtonQueryQueriesw
+u
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java°% °(/
+%7java.awt.Color"__id*
+""ÔÏ
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java° °(0
+
+%8void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%6javax.swing.JButton*
+
+%7java.awt.Color2setBackground(Ljava/awt/Color;)†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java¢ ¢(
+%9javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+jButtonQueryQueriesÕ 
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java¢ ¢(1
+%10void"#java.awt.Component#setBounds(IIII)V*
+
+%9javax.swing.JButton*2
+*2,*2’*22setBounds(IIII)°
+û
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java£ £(
+%11javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+jButtonQueryQueriesÙ
+Ò
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java£ £(D
+%12java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasãà
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java£ £(^
+%13java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%12java.util.ResourceBundle*
+QueryQueries2getString(Ljava/lang/String;)Ì
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java£ £(_
+%14void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%11javax.swing.JButton*
+
+%13java.lang.String2setText(Ljava/lang/String;)°
+û
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java§ §(
+%15javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+jButtonQueryQuerieszx
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java§- §(J
+%16gui.AdminGUI$4"gui.AdminGUI$4ê
+ç
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java§) ™(
+%17"java.lang.Object#<init>()V*
+
+%16gui.AdminGUI$4úô
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java§ ™(
+%18void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%15javax.swing.JButton*
+
+%16gui.AdminGUI$422addActionListener(Ljava/awt/event/ActionListener;)*
+1*ˇ
+3O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaû û(†
+ù
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaû û(
+%0javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+jButtonQueryQueries*
+2
+1*È
+1O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java¨	 ¨(°
+û
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java¨	 ¨(
+%19javax.swing.JButton"__id*)*'
+gui.AdminGUI"
+jButtonQueryQueries"o
+O
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java¨ ¨(
+
+%19javax.swing.JButtonB
+gui.AdminGUI

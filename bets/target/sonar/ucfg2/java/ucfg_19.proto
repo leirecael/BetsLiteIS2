@@ -1,42 +1,0 @@
-
-=dataAccess.DataAccess#findSport(Ldomain/Event;)Ldomain/Sport;X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaí í("1*Ê	
-1X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaì ì(≠
-™
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaì ì(%
-%0javax.persistence.EntityManager"__id*!*
-dataAccess.DataAccess"
-dbœÃ
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaì" ì(4
-%1java.lang.Integer"0domain.Event#getEventNumber()Ljava/lang/Integer;*
-
-qdomain.Event2getEventNumber()≈¬
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaì ì(5
-%2domain.Event"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
-%
-%0javax.persistence.EntityManager*
-""*
-
-%1java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)ç
-ä
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaì ì(6
-spdomain.Event"__id*
-
-%2domain.Event∫∑
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaî	 î(
-%3domain.Sport"%domain.Event#getSport()Ldomain/Sport;*
-
-spdomain.Event2
-getSport()"p
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaî î(
-
-%3domain.Sport:
-qdomain.EventB
-dataAccess.DataAccess

@@ -1,1 +1,2 @@
-domain.Question#setQuestionNumber(Ljava/lang/Integer;)V
+domain.Question#toString()Ljava/lang/String;
+java.lang.Double#toString(D)Ljava/lang/String;

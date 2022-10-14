@@ -1,1 +1,3 @@
-domain.ApustuAnitza#getUser()LRegistered;
+gui.RegisterGUI#instance-init#
+javax.swing.JLabel#instance-init#
+javax.swing.JLabel#<init>()V

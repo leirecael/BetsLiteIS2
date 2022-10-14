@@ -1,1 +1,1 @@
-domain.Sport#getEvents()Ljava/util/Vector;
+domain.Quote#<init>(Ljava/lang/Double;Ljava/lang/String;LQuestion;)V

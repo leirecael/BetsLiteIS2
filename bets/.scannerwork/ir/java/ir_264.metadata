@@ -1,1 +1,3 @@
-businessLogic.BLFacadeImplementation#saldoaBistaratu(Ldomain/Registered;)Ljava/lang/String;
+bets.ApustuaEginDABTest#test04()V
+java.util.Date#<init>()V
+java.util.Date#instance-init#

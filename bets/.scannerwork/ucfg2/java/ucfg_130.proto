@@ -1,16 +1,16 @@
 
-1domain.ApustuAnitza#getEgoera()Ljava/lang/String;T
-JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java\ \("1*Í
-1T
-JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java]	 ](ú
-ô
-T
-JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java]	 ](
-%0java.lang.String"__id*#*!
-domain.ApustuAnitza"
-egoera"p
-T
-JC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/ApustuAnitza.java] ](
-
-%0java.lang.StringB
-domain.ApustuAnitza
++domain.Event#getEventDate()Ljava/util/Date;M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaM M("1*Õ
+1M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaN	 N(è
+å
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaN	 N(
+%0java.util.Date"__id**
+domain.Event"
+	eventDate"g
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaN N(
+
+%0java.util.DateB
+domain.Event

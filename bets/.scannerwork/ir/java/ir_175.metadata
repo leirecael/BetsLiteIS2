@@ -1,1 +1,1 @@
-domain.ApustuAnitza#getApustuak()Ljava/util/Vector;
+domain.Event#getEventNumber()Ljava/lang/Integer;

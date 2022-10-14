@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#findQuestion(LEvent;)Ljava/util/Collection;
+businessLogic.BLFacadeImplementation#findQuestionFromQuote(LQuote;)LQuestion;

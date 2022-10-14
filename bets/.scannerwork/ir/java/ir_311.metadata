@@ -1,2 +1,1 @@
-domain.Quote#instance-init#
-java.util.Vector#<init>()V
+domain.Quote#setQuoteNumber(Ljava/lang/Integer;)V

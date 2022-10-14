@@ -1,1 +1,1 @@
-domain.Sport#eguneratuApustuKantitatea()V
+domain.Quote#getQuote()Ljava/lang/Double;

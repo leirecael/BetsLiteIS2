@@ -1,1 +1,1 @@
-gui.MainUserGUI#setBussinessLogic(LBLFacade;)V
+domain.Apustua#setEgoera(Ljava/lang/String;)V

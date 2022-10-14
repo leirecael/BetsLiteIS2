@@ -1,1 +1,1 @@
-gui.DestacadosGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+businessLogic.BLFacadeImplementation#EmaitzakIpini(LQuote;)V

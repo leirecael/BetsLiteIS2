@@ -1,1 +1,1 @@
-domain.Transaction#setErabiltzailea(Ldomain/Registered;)V
+bets.TestDataAccess#storeEvent(LEvent;)V

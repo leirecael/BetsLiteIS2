@@ -1,1 +1,2 @@
-businessLogic.BLFacadeImplementation#findEvent(Ldomain/Quote;)LEvent;
+gui.AdminGUI#<init>(Ldomain/Registered;)V
+gui.AdminGUI#initialize()V

@@ -12,7 +12,7 @@ import org.junit.Test;
 import dataAccess.DataAccess;
 import domain.*;
 
-@SuppressWarnings("deprecation")
+
 public class ApustuaEginDAWTest {
 	DataAccess sut;
 	TestDataAccess testDA;

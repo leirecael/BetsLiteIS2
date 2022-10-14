@@ -1,1 +1,1 @@
-businessLogic.BLFacadeImplementation#isRegister(Ljava/lang/String;)Z
+businessLogic.BLFacadeImplementation#jarraituTaldea(LRegistered;LTeam;)V

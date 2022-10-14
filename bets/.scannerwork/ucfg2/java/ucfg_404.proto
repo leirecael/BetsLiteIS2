@@ -1,16 +1,16 @@
 
-5configuration.ConfigXML#getLocale()Ljava/lang/String;X
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java1 1("1*ú
-1X
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java2	 2(¤
-¡
-X
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java2	 2(
-%0java.lang.String"__id*'*%
-configuration.ConfigXML"
-locale"t
-X
-NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java2 2(
+?configuration.ConfigXML#getDataBaseOpenMode()Ljava/lang/String;Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java£ £(""1*Š
+1Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¤	 ¤(°
+­
+Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¤	 ¤(
+%0java.lang.String"__id*1*/
+configuration.ConfigXML"
+dataBaseOpenMode"v
+Z
+NC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/configuration/ConfigXML.java¤ ¤(
 
 %0java.lang.StringB
 configuration.ConfigXML

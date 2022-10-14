@@ -1,3 +1,1 @@
-gui.ApustuakEzabatuGUI#instance-init#
-javax.swing.DefaultComboBoxModel#<init>()V
-javax.swing.DefaultComboBoxModel#instance-init#
+businessLogic.BLFacadeImplementation#storeQuote(Ljava/lang/String;Ljava/lang/Double;LQuestion;)V

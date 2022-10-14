@@ -1,1 +1,1 @@
-domain.Quote#setQuestion(LQuestion;)V
+exceptions.QuoteAlreadyExist#<init>(Ljava/lang/String;)V

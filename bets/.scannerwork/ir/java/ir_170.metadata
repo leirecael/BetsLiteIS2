@@ -1,1 +1,1 @@
-domain.ApustuAnitza#setBalioa(Ljava/lang/Double;)V
+domain.Event#getQuestions()Ljava/util/Vector;

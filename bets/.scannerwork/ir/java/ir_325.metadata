@@ -1,2 +1,4 @@
-domain.Quote#toString()Ljava/lang/String;
-java.lang.Double#toString(D)Ljava/lang/String;
+gui.GertaeraInfo#instance-init#
+gui.MainGUI#getBusinessLogic()LBLFacade;
+javax.swing.DefaultListModel#instance-init#
+javax.swing.DefaultListModel#<init>()V

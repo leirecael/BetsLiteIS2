@@ -1,1 +1,2 @@
-domain.Quote#setQuote(Ljava/lang/Double;)V
+domain.Quote#hashCode()I
+java.lang.Integer#hashCode()I

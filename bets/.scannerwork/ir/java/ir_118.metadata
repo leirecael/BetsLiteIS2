@@ -1,1 +1,4 @@
-domain.Question#listaraGehitu(LQuote;)V
+gui.RegisteredGUI#initialize()V
+java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
+java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;
+gui.RegisteredGUI#getJContentPane()Ljavax/swing/JPanel;

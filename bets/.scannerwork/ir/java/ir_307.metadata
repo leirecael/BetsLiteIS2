@@ -1,1 +1,1 @@
-domain.Sport#addEvent(LEvent;)V
+domain.Quote#setQuote(Ljava/lang/Double;)V

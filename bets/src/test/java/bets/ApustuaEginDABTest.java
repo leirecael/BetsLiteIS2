@@ -14,7 +14,7 @@ import org.junit.rules.ExpectedException;
 import dataAccess.DataAccess;
 import domain.*;
 
-@SuppressWarnings("deprecation")
+
 public class ApustuaEginDABTest {
 	DataAccess sut;
 	TestDataAccess testDA;

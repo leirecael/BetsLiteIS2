@@ -1,2 +1,2 @@
-domain.Question#addQuote(Ljava/lang/Double;Ljava/lang/String;Ldomain/Question;)LQuote;
-null
+gui.RegisteredGUI#<init>(LRegistered;)V
+gui.RegisteredGUI#initialize()V

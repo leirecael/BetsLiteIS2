@@ -1,4 +1,1 @@
-bets.gertaeralKopiatuDABTest#testGertaerakKopiatu2()V
-java.util.Date#<init>(III)V
-java.util.Date#instance-init#
-gui.ApplicationLauncher#main([Ljava/lang/String;)V
+domain.ApustuAnitza#setUser(LRegistered;)V

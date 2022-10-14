@@ -1,1 +1,1 @@
-domain.Registered#addJarraitutako(LJarraitzailea;)V
+domain.Registered#getTaldea()LTeam;

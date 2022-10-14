@@ -1,8 +1,1 @@
-bets.apustuaEginDAWTest#setUp()V
-null
-java.util.Vector#<init>()V
-java.util.Vector#instance-init#
-java.util.Date#<init>()V
-domain.Registered#instance-init#
-java.util.Date#instance-init#
-domain.Registered#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;)V
+bets.TestDataAccess#close()V

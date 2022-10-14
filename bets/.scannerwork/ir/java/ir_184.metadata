@@ -1,2 +1,2 @@
-domain.ApustuAnitza#irabazitaMarkatu()Z
-java.lang.String#equals(Ljava/lang/Object;)Z
+domain.Event#addQuestion(Ljava/lang/String;D)LQuestion;
+null

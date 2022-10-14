@@ -1,4 +1,1 @@
-businessLogic.BLFacadeImplementation#gertaerakSortu(Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)Z
-null
-java.util.Date#<init>()V
-java.util.Date#instance-init#
+businessLogic.BLFacadeImplementation#getEventsTeam(LTeam;)Ljava/util/List;

@@ -1,3 +1,0 @@
-dataAccess.DataAccess#gertaerakSortu(Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)Z
-dataAccess.DataAccess#createEvent(Ljava/lang/String;Ljava/util/Date;Ldomain/Sport;)V
-dataAccess.DataAccess#isEventValid(Ljava/lang/String;Ljava/util/Date;Z)Z

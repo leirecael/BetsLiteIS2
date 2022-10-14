@@ -1,16 +1,15 @@
 
-5domain.Registered#getBankAccount()Ljava/lang/Integer;T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÇ Ç("1*ï
-1T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÈ	 È( 
-
-T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÈ	 È(
-%0java.lang.Integer"__id*&*$
-domain.Registered"
-bankAccount"q
-T
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÈ È(
-
-%0java.lang.IntegerB
-domain.Registered
+4bets.TestDataAccess#removeUser(Ldomain/Registered;)ZV
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.javaƒ ƒ("1*
+1V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java„ „(ÏÌ
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java† †($
+%0java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
+
+udomain.Registered2getUsername()"`
+V
+JC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/bets/TestDataAccess.java‰ ‰(
+"":
+udomain.RegisteredB
+bets.TestDataAccess

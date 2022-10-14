@@ -1,1 +1,3 @@
-domain.Event#getDescription()Ljava/lang/String;
+dataAccess.ObjectdbManagerServer#instance-init#
+javax.swing.JPanel#<init>()V
+javax.swing.JPanel#instance-init#

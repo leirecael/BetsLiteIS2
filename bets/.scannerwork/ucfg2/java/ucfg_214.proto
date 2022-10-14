@@ -1,173 +1,16 @@
 
-1gui.AdminGUI#getLblNewLabel()Ljavax/swing/JLabel;O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∞ ∞("3*« 
-2O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java≤# ≤(1Û
-
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java≤# ≤(H
-%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
-java.util.ResourceBundle*
-	EtiquetasâÜ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java≤# ≤(b
-%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
-
-%1java.util.ResourceBundle*
-SelectOption2getString(Ljava/lang/String;)Å
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java≤ ≤("
-%3javax.swing.JLabel"javax.swing.JLabel¿
-Ω
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java≤ ≤(c
-%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
-
-%3javax.swing.JLabel*
-
-%2java.lang.Stringû
-õ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java≤ ≤(c&
-gui.AdminGUI"
-jLabelSelectOption"__id*
-
-%3javax.swing.JLabelû
-õ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java≥ ≥(
-%5javax.swing.JLabel"__id*(*&
-gui.AdminGUI"
-jLabelSelectOption∂≥
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java≥ ≥(%
-
-%6void"$javax.swing.JComponent#setOpaque(Z)V*
-
-%5javax.swing.JLabel*22setOpaque(Z)û
-õ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java¥ ¥(
-%7javax.swing.JLabel"__id*(*&
-gui.AdminGUI"
-jLabelSelectOptionw
-u
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java¥$ ¥(.
-%8java.awt.Color"__id*
-""ÓÎ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java¥ ¥(/
-
-%9void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
-
-%7javax.swing.JLabel*
-
-%8java.awt.Color2setBackground(Ljava/awt/Color;)ü
-ú
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaµ µ(
-%10javax.swing.JLabel"__id*(*&
-gui.AdminGUI"
-jLabelSelectOptionÕ 
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.javaµ µ(1
-%11void"#java.awt.Component#setBounds(IIII)V*
-
-%10javax.swing.JLabel*2n*2
-*2˘*22setBounds(IIII)ü
-ú
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∂ ∂(
-%12javax.swing.JLabel"__id*(*&
-gui.AdminGUI"
-jLabelSelectOptionm
-k
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∂1 ∂(:
-
-%13int"__id*
-""xv
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∂" ∂(&
-%14java.awt.Font"java.awt.Font¿
-Ω
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∂ ∂(?
-%15"+java.awt.Font#<init>(Ljava/lang/String;II)V*
-
-%14java.awt.Font*
-
-Tahoma*
-
-
-%13int*2‚ﬂ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∂ ∂(@
-%16void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
-
-%12javax.swing.JLabel*
-
-%14java.awt.Font2setFont(Ljava/awt/Font;)ü
-ú
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∑ ∑(
-%17javax.swing.JLabel"__id*(*&
-gui.AdminGUI"
-jLabelSelectOptionx
-v
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∑$ ∑(/
-%18java.awt.Color"__id*
-""ÒÓ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∑ ∑(0
-%19void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
-
-%17javax.swing.JLabel*
-
-%18java.awt.Color2setForeground(Ljava/awt/Color;)ü
-ú
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∏ ∏(
-%20javax.swing.JLabel"__id*(*&
-gui.AdminGUI"
-jLabelSelectOptionm
-k
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∏- ∏(B
-
-%21int"__id*
-""÷”
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∏ ∏(C
-%22void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
-
-%20javax.swing.JLabel*
-
-
-%21int2setHorizontalAlignment(I)*
-1*˝
-3O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java± ±(û
-õ
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java± ±(
-%0javax.swing.JLabel"__id*(*&
-gui.AdminGUI"
-jLabelSelectOption*
-2
-1*Ê
-1O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∫	 ∫(ü
-ú
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∫	 ∫(
-%23javax.swing.JLabel"__id*(*&
-gui.AdminGUI"
-jLabelSelectOption"n
-O
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/AdminGUI.java∫ ∫(
-
-%23javax.swing.JLabelB
-gui.AdminGUI
+5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java3 3(#"1*⁄
+1M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4	 4(ô
+ñ
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4	 4(
+%0java.lang.Integer"__id*&*$
+domain.Sport"
+apustuKantitatea"j
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4 4(
+
+%0java.lang.IntegerB
+domain.Sport

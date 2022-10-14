@@ -1,1 +1,1 @@
-domain.Transaction#getTransactionNumber()Ljava/lang/Integer;
+bets.TestDataAccess#removeUser(Ldomain/Registered;)Z

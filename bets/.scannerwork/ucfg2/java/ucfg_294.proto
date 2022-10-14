@@ -1,16 +1,9 @@
 
-4domain.Registered#getDiruLimitea()Ljava/lang/Double;R
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javax x("1*ç
-1R
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javay	 y(
-š
-R
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javay	 y(
-%0java.lang.Double"__id*&*$
-domain.Registered"
-diruLimitea"n
-R
-HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javay y(
-
-%0java.lang.DoubleB
+domain.Registered#isAdmin()ZT
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÎ Î("1*¹
+1T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÏ	 Ï("^
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaÏ Ï(
+""B
 domain.Registered

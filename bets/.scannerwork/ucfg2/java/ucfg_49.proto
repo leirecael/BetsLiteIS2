@@ -1,32 +1,16 @@
 
-Otest.dataAccess.TestDataAccess#removeEvent(Ljava/util/Date;Ljava/lang/String;)Z_
-UC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/test/dataAccess/TestDataAccess.java< <("8*Ï
-2_
-UC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/test/dataAccess/TestDataAccess.javaG G("i
-_
-UC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/test/dataAccess/TestDataAccess.javaJ J(
-""*ÿ
-8_
-UC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/test/dataAccess/TestDataAccess.java= =(
-Š
-_
-UC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/test/dataAccess/TestDataAccess.java= =(
-%0java.io.PrintStream"__id*
-""€ý
-_
-UC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/test/dataAccess/TestDataAccess.java= =(6
-
-%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%0java.io.PrintStream*" 
->> DataAccessTest: removeEvent2println(Ljava/lang/String;)*
-2
-1*Ï
-1_
-UC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/test/dataAccess/TestDataAccess.javaL	 L("i
-_
-UC:/Users/Leire/git/BetsLiteIS2/bets/src/test/java/test/dataAccess/TestDataAccess.javaL L(
-"":
-	eventDatejava.util.Date:
-descjava.lang.StringB" 
-test.dataAccess.TestDataAccess
+/domain.Question#getQuestion()Ljava/lang/String;P
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaV V("1*â
+1P
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaW	 W(œ
+™
+P
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaW	 W(
+%0java.lang.String"__id*'*%
+domain.Question"
+questionString"l
+P
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaW W(
+
+%0java.lang.StringB
+domain.Question

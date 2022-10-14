@@ -1,1 +1,1 @@
-domain.ApustuAnitza#setApustuKopia(Ljava/lang/Integer;)V
+domain.Event#getSport()LSport;

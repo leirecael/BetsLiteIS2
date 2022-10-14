@@ -1,16 +1,51 @@
 
-5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java3 3(#"1*Ú
+(domain.Quote#equals(Ljava/lang/Object;)ZM
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javan n("startingBlock*½
+2M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javap p(„
+
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javap p(
+qdomain.Quote"__id*
+
+ojava.lang.ObjectÁ¾
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaq
+ q(
+%0java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+domain.Quote2getQuoteNumber()ÄÁ
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaq! q(3
+%1java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+qdomain.Quote2getQuoteNumber()"W
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaq q(4
+""*ş
+startingBlockM
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javan n( •
+’
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javam m(
+
+%2"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object~
+|
+M
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javan n(
+ojava.lang.Object"__annotation*
+
+%2*
+2
+1*«
 1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4	 4(™
-–
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javas
+ s("W
 M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4	 4(
-%0java.lang.Integer"__id*&*$
-domain.Sport"
-apustuKantitatea"j
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Sport.java4 4(
-
-%0java.lang.IntegerB
-domain.Sport
+CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javas s(
+"":
+ojava.lang.ObjectB
+domain.Quote
