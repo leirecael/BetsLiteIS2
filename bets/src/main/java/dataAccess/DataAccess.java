@@ -831,60 +831,113 @@ public void open(boolean initializeMode){
 		db.getTransaction().commit();
 	}
 	
-	public boolean ApustuaEgin(Registered u, Vector<Quote> quote, Double balioa, Integer apustuBikoitzaGalarazi) {
-		Registered user = (Registered) db.find(Registered.class, u.getUsername());
-		Boolean b;
-		if(user.getDirukop()>=balioa) {
-			db.getTransaction().begin();
-			ApustuAnitza apustuAnitza = new ApustuAnitza(user, balioa);
-			db.persist(apustuAnitza);
-			for(Quote quo: quote) {
-				Quote kuote = db.find(Quote.class, quo.getQuoteNumber());
-				Apustua ap = new Apustua(apustuAnitza, kuote);
-				db.persist(ap);
-				apustuAnitza.addApustua(ap);
-				kuote.addApustua(ap);
-			}
-			db.getTransaction().commit();
-			db.getTransaction().begin();
-			if(apustuBikoitzaGalarazi==-1) {
-				apustuBikoitzaGalarazi=apustuAnitza.getApustuAnitzaNumber();
-			}
-			apustuAnitza.setApustuKopia(apustuBikoitzaGalarazi);
-			user.updateDiruKontua(-balioa);
-			Transaction t = new Transaction(user, balioa, new Date(), "ApustuaEgin"); 
-			user.addApustuAnitza(apustuAnitza);
-			for(Apustua a: apustuAnitza.getApustuak()) {
-				Apustua apu = db.find(Apustua.class, a.getApostuaNumber());
-				Quote q = db.find(Quote.class, apu.getKuota().getQuoteNumber());
-				Sport spo =q.getQuestion().getEvent().getSport();
-				spo.setApustuKantitatea(spo.getApustuKantitatea()+1);
-				
-			}
-			user.addTransaction(t);
-			db.persist(t);
-			db.getTransaction().commit();
-			for(Jarraitzailea reg:user.getJarraitzaileLista()) {
-				Jarraitzailea erab=db.find(Jarraitzailea.class, reg.getJarraitzaileaNumber());
-				b=true;
-				for(ApustuAnitza apu: erab.getNork().getApustuAnitzak()) {
-					if(apu.getApustuKopia().equals(apustuAnitza.getApustuKopia())) {
-						b=false;
-					}
-				}
-				if(b) {
-					if(erab.getNork().getDiruLimitea()<balioa) {
-						this.ApustuaEgin(erab.getNork(), quote, erab.getNork().getDiruLimitea(), apustuBikoitzaGalarazi);
-					}else{
-						this.ApustuaEgin(erab.getNork(), quote, balioa, apustuBikoitzaGalarazi);
-					}
-				}
-			}
-			return true; 
-		}else{
-			return false; 
+	public boolean ApustuaEgin(Registered u, List<Quote> quote, Double balioa, Integer apustuBikoitzaGalarazi) {
+		ApustuAnitza apustuAnitza;
+		
+		Registered user = db.find(Registered.class, u.getUsername());
+		Boolean apostatuta = false;
+		if(user.getDirukop() >= balioa) {
+			apustuAnitza = apustuAnitzaSortu(user, quote, balioa);
+			transakzioaEgin(user, balioa, apustuAnitza, apustuBikoitzaGalarazi);
+			apustuaJarraitzaileeiEgin(user, quote, apustuAnitza, balioa, apustuBikoitzaGalarazi);
+			
+			apostatuta = true;
+		}
+		return apostatuta;
+	}
+	
+	/**
+	 * Worker method for ApustuaSortu: Creates a new multiple bet type with all the quotes.
+	 * @param user Registered user which wants to place the bet quotes.
+	 * @param quote A list containing all the quotes the user wants to make.
+	 * @param balioa The value of all the quotes contained in the quote list.
+	 * @return The created multiple bet. Null if not created.
+	 */
+	private ApustuAnitza apustuAnitzaSortu(Registered user, List<Quote> quote, Double balioa) {
+		db.getTransaction().begin();
+		
+		ApustuAnitza apustuAnitza = new ApustuAnitza(user, balioa);
+		
+		db.persist(apustuAnitza);
+		
+		for(Quote quo: quote) {
+			Quote kuote = db.find(Quote.class, quo.getQuoteNumber());
+			Apustua ap = new Apustua(apustuAnitza, kuote);
+			db.persist(ap);
+			
+			apustuAnitza.addApustua(ap);
+			kuote.addApustua(ap);
 		}
 		
+		db.getTransaction().commit();
+		
+		return apustuAnitza;
+	}
+	
+	/**
+	 * Worker method for apustuaEgin: Creates the transaction for all the quotes of a given user.
+	 * @param user The registered user who wants to place the multiple bet (apustuAnitza).
+	 * @param balioa The global value of the "apustuAnitza".
+	 * @param apustuAnitza The group of bets to transact.
+	 * @param apustuBikoitzaGalarazi (-1) if no two same bets want to be transacted twice. Other values otherwise.
+	 * @return The transaction containing the multiple bet (apustuAnitza).
+	 */
+	private Transaction transakzioaEgin(Registered user, Double balioa, ApustuAnitza apustuAnitza, int apustuBikoitzaGalarazi) {
+		db.getTransaction().begin();
+		
+		if(apustuBikoitzaGalarazi==-1) {
+			apustuBikoitzaGalarazi=apustuAnitza.getApustuAnitzaNumber();
+		}
+		
+		apustuAnitza.setApustuKopia(apustuBikoitzaGalarazi);
+		user.updateDiruKontua(-balioa);
+		
+		Transaction t = new Transaction(user, balioa, new Date(), "ApustuaEgin"); 
+		user.addApustuAnitza(apustuAnitza);
+		
+		kirolaEzarri(apustuAnitza);
+		
+		user.addTransaction(t);
+		db.persist(t);
+		db.getTransaction().commit();
+		
+		return t;
+	}
+	
+	/**
+	 * Worker method for transakzioaEgin: Assigns a sport to each question of the multiple bet.
+	 * @param apustuAnitza The list of multiple bet which have to be assigned a sport.
+	 */
+	private void kirolaEzarri(ApustuAnitza apustuAnitza) {
+		for(Apustua a: apustuAnitza.getApustuak()) {
+			Apustua apu = db.find(Apustua.class, a.getApostuaNumber());
+			Quote q = db.find(Quote.class, apu.getKuota().getQuoteNumber());
+			Sport spo =q.getQuestion().getEvent().getSport();
+			spo.setApustuKantitatea(spo.getApustuKantitatea()+1);
+		}
+	}
+	
+	/**
+	 * Worker method for apustuaEgin: It transacts the "apustuAnitza" to all the followers of the user.
+	 * @param user The user which has the followers.
+	 * @param quote List containing all the quotes the user wants to transact.
+	 * @param apustuAnitza The multiple bets result of the bets of the user.
+	 * @param balioa The value of the overall quote.
+	 * @param apustuBikoitzaGalarazi (-1) Forbid to transact same bets more than once. Nothing otherwise.
+	 */
+	private void apustuaJarraitzaileeiEgin(Registered user, List<Quote> quote, ApustuAnitza apustuAnitza, Double balioa, Integer apustuBikoitzaGalarazi) {
+		for(Jarraitzailea reg : user.getJarraitzaileLista()) {
+			Jarraitzailea erab = db.find(Jarraitzailea.class, reg.getJarraitzaileaNumber());
+			
+			for(ApustuAnitza apu: erab.getNork().getApustuAnitzak()) {
+				if(!apu.getApustuKopia().equals(apustuAnitza.getApustuKopia())) {
+					if(erab.getNork().getDiruLimitea() < balioa)
+						this.ApustuaEgin(erab.getNork(), quote, erab.getNork().getDiruLimitea(), apustuBikoitzaGalarazi);
+					else
+						this.ApustuaEgin(erab.getNork(), quote, balioa, apustuBikoitzaGalarazi);
+				}
+			}
+		}
 	}
 	
 	public void apustuaEzabatu(Registered user1, ApustuAnitza ap) {
