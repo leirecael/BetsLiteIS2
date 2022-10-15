@@ -34,11 +34,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Leire/git/BetsLiteIS2/src/main/resources/objectdb.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Leire/git/BetsLiteIS2/src/main/resources/mockito-core-3.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Leire/git/BetsLiteIS2/src/main/resources/objenesis-tck-3.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Leire/git/BetsLiteIS2/src/main/resources/byte-buddy-agent-1.10.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Leire/git/BetsLiteIS2/src/main/resources/byte-buddy-1.10.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="src/main/resources/byte-buddy-1.10.1.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/byte-buddy-agent-1.10.1.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/mockito-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/objectdb.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/objenesis-tck-3.0.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
