@@ -1,33 +1,0 @@
-
-RbusinessLogic.BLFacadeImplementation#getEvents(Ljava/util/Date;)Ljava/util/Vector;e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javae e("startingBlock*¾
-startingBlocke
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javae e(*¥
-¢
-e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javad d(
-%0"
-__annotate*
-	WebMethod*
-
-datejava.util.Date˜
-•
-e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javae% e()
-datejava.util.Date"__annotation*
-
-%0*
-1*‰
-1e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaf f(”
-‘
-e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javag g(2
-eventsjava.util.Vector"__id*
-"""…
-e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javai i(
-
-eventsjava.util.Vector:
-datejava.util.DateB(&
-$businessLogic.BLFacadeImplementation

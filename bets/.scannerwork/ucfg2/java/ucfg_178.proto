@@ -1,47 +1,0 @@
-
-VbusinessLogic.BLFacadeImplementation#gertaerakKopiatu(Ldomain/Event;Ljava/util/Date;)Zg
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaë ë( "startingBlock*Å
-startingBlockg
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaë  ë(4¢
-ü
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaê ê(
-%0"
-__annotate*
-	WebMethod*
-
-edomain.Eventï
-í
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaë' ë((
-edomain.Event"__annotation*
-
-%0ß
-§
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaê ê(
-%1"
-__annotate*
-	WebMethod*
-
-datejava.util.Dateö
-ó
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaë/ ë(3
-datejava.util.Date"__annotation*
-
-%1*
-1*Ù
-1g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaí í(í
-è
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaì ì(0
-bjava.lang.Boolean"__id*
-"""q
-g
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaï ï(
-"":
-edomain.Event:
-datejava.util.DateB(&
-$businessLogic.BLFacadeImplementation

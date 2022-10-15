@@ -1,45 +1,0 @@
-
-[dataAccess.DataAccess#gertaerakSortu(Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)ZX
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaØ Ø("2"4*Á
-2X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaâ
- â("b
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaâ â(
-""*ü
-3X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaß ß(—
-”
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaß ß(,
-%1"MdataAccess.DataAccess#createEvent(Ljava/lang/String;Ljava/util/Date;LSport;)V*
-dataAccess.DataAccess*!
-
-descriptionjava.lang.String*
-
-	eventDatejava.util.Date*
-""*
-1*ƒ
-4X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaÝ Ý(›
-˜
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaÝ Ý(.
-%0boolean"HdataAccess.DataAccess#isEventValid(Ljava/lang/String;Ljava/util/Date;Z)Z*
-dataAccess.DataAccess*!
-
-descriptionjava.lang.String*
-
-	eventDatejava.util.Date*
-""*
-3
-1*Á
-1X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaä ä("b
-X
-LC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/dataAccess/DataAccess.javaå å(
-"":
-descriptionjava.lang.String:
-	eventDatejava.util.Date:
-sportjava.lang.StringB
-dataAccess.DataAccess

@@ -1,33 +1,0 @@
-
-WbusinessLogic.BLFacadeImplementation#getEventsMonth(Ljava/util/Date;)Ljava/util/Vector;e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javas  s(."startingBlock*æ
-startingBlocke
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javas. s(9•
-¢
-e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javas s(
-%0"
-__annotate*
-	WebMethod*
-
-datejava.util.Dateò
-ï
-e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javas4 s(8
-datejava.util.Date"__annotation*
-
-%0*
-1*á
-1e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javat t(ì
-ê
-e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javau u(5
-datesjava.util.Vector"__id*
-"""Ñ
-e
-[C:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/businessLogic/BLFacadeImplementation.javaw w(
-
-datesjava.util.Vector:
-datejava.util.DateB(&
-$businessLogic.BLFacadeImplementation

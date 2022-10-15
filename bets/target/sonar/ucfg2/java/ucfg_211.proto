@@ -1,16 +1,0 @@
-
-+domain.Event#getEventDate()Ljava/util/Date;M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaM M("1*Í
-1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaN	 N(
-Œ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaN	 N(
-%0java.util.Date"__id**
-domain.Event"
-	eventDate"g
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Event.javaN N(
-
-%0java.util.DateB
-domain.Event

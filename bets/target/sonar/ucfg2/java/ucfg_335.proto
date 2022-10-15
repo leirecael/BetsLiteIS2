@@ -1,53 +1,0 @@
-
-)domain.Quote#toString()Ljava/lang/String;M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaY Y("1*ô	
-1M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaZ	 Z(ê
-ç
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaZ Z(
-%0java.lang.String"__id**
-domain.Quote"
-
-forecastû
-õ
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaZ	 Z(
-%1java.lang.String"__concat*
-
-Forecast: *
-
-%0java.lang.Stringù
-ö
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaZ	 Z(*
-%2java.lang.String"__concat*
-
-%1java.lang.String*
-	; Quote: ç
-ä
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaZ; Z(@
-%3java.lang.Double"__id**
-domain.Quote"
-balio 
-«
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaZ+ Z(A
-%4java.lang.String".java.lang.Double#toString(D)Ljava/lang/String;*"
-java.lang.Double*
-
-%3java.lang.Double®
-•
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaZ	 Z(A
-%5java.lang.String"__concat*
-
-%2java.lang.String*
-
-%4java.lang.String"i
-M
-CC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Quote.javaZ Z(B
-
-%5java.lang.StringB
-domain.Quote
