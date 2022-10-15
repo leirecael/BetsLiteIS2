@@ -80,7 +80,7 @@ public class GertaerakSortuMockIntTest {
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		Date eventDate=null;;
 		try {
-			//fecha de creacion, 9/10/2022, si da error cambiar fecha a un dia posterior al actual
+			//si da error cambiar fecha a un dia posterior al actual
 			eventDate = sdf.parse("20/10/2022");
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
