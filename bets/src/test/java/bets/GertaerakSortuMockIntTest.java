@@ -124,7 +124,6 @@ public class GertaerakSortuMockIntTest {
 			//fecha de creacion, 9/10/2022
 			eventDate = sdf.parse("9/10/2022");
 		} catch (ParseException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
