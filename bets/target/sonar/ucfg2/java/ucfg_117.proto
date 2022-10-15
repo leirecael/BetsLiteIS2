@@ -1,0 +1,59 @@
+
+,domain.Question#toString()Ljava/lang/String;R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java³ ³("1*å
+
+1R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´	 ´(Ÿ
+œ
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´	 ´(
+%0java.lang.Integer"__id*'*%
+domain.Question"
+questionNumber›
+˜
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´	 ´(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;ž
+›
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´ ´(*
+%2java.lang.String"__id*'*%
+domain.Question"
+questionString­
+ª
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´	 ´(*
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.Stringš
+—
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´	 ´(.
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+;½
+º
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´1 ´(L
+%5java.lang.String".java.lang.Double#toString(D)Ljava/lang/String;*"
+java.lang.Double*
+""­
+ª
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´	 ´(L
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"n
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java´ ´(M
+
+%6java.lang.StringB
+domain.Question

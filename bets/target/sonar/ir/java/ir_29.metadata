@@ -1,0 +1,6 @@
+dataAccess.DataAccess#transakzioaEgin(Ldomain/Registered;Ljava/lang/Double;Ldomain/ApustuAnitza;I)Ldomain/Transaction;
+dataAccess.DataAccess#kirolaEzarri(Ldomain/ApustuAnitza;)V
+java.util.Date#<init>()V
+domain.Transaction#<init>(Ldomain/Registered;Ljava/lang/Double;Ljava/util/Date;Ljava/lang/String;)V
+java.util.Date#instance-init#
+domain.Transaction#instance-init#

@@ -1,0 +1,55 @@
+
+3domain.Question#doesQuoteExist(Ljava/lang/String;)ZR
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java· ·("5*÷
+2R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¸ ¸(y
+w
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¸ ¸(
+quodomain.Quote"__id*
+""š
+—
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¸ ¸(
+quodomain.Quote"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+4
+1*µ
+3R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaº º("\
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.javaº º(
+""*”
+4R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¹ ¹(	ÃÀ
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¹ ¹(
+%1java.lang.String",domain.Quote#getForecast()Ljava/lang/String;*
+
+quodomain.Quote2getForecast()ìé
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¹ ¹(+	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%1java.lang.String*
+
+forecastjava.lang.String2compareTo(Ljava/lang/String;)*
+2
+3*Ÿ
+5R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¸ ¸(À½
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¸ ¸(!
+%0java.util.Vector"-domain.Question#getQuotes()Ljava/util/Vector;*
+domain.Question2getQuotes()*
+2*µ
+1R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¾	 ¾("\
+R
+FC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Question.java¾ ¾(
+"":
+forecastjava.lang.StringB
+domain.Question

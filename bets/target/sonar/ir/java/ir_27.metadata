@@ -1,0 +1,4 @@
+dataAccess.DataAccess#ApustuaEgin(Ldomain/Registered;Ljava/util/List;Ljava/lang/Double;Ljava/lang/Integer;)Z
+dataAccess.DataAccess#transakzioaEgin(Ldomain/Registered;Ljava/lang/Double;Ldomain/ApustuAnitza;I)Ldomain/Transaction;
+dataAccess.DataAccess#apustuaJarraitzaileeiEgin(Ldomain/Registered;Ljava/util/List;Ldomain/ApustuAnitza;Ljava/lang/Double;Ljava/lang/Integer;)V
+dataAccess.DataAccess#apustuAnitzaSortu(Ldomain/Registered;Ljava/util/List;Ljava/lang/Double;)Ldomain/ApustuAnitza;

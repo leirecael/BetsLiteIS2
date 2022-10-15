@@ -1,0 +1,99 @@
+
+,gui.MainGUI#getBoton3()Ljavax/swing/JButton;N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÉ É("3*
+2N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÖ Ö(&ÉÄ
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÖ Ö($
+%1javax.swing.JButton"javax.swing.JButtonï
+í
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÖ Ö(&
+%2"javax.swing.JButton#<init>()V*
+
+%1javax.swing.JButtonû
+õ
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÖ Ö(&&
+gui.MainGUI"
+jButtonQueryQueries"__id*
+
+%1javax.swing.JButtonû
+õ
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÜ Ü(
+%3javax.swing.JButton"__id*(*&
+gui.MainGUI"
+jButtonQueryQueriesx
+v
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÜ8 Ü(A
+%4java.lang.String"__id*
+""˝
+˙
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÜ Ü(B
+%5java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+
+%4java.lang.StringàÖ
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÜ Ü(\
+%6java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%5java.util.ResourceBundle*
+QueryQueries2getString(Ljava/lang/String;)ÏÈ
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÜ Ü(]
+
+%7void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%3javax.swing.JButton*
+
+%6java.lang.String2setText(Ljava/lang/String;)û
+õ
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaá á(
+%8javax.swing.JButton"__id*(*&
+gui.MainGUI"
+jButtonQueryQueriesvt
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaá- á(J
+%9gui.MainGUI$3"gui.MainGUI$3ç
+ä
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaá) ç(
+%10"java.lang.Object#<init>()V*
+
+%9gui.MainGUI$3òï
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaá ç(
+%11void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%8javax.swing.JButton*
+
+%9gui.MainGUI$322addActionListener(Ljava/awt/event/ActionListener;)*
+1*¸
+3N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÑ Ñ(û
+õ
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaÑ Ñ(
+%0javax.swing.JButton"__id*(*&
+gui.MainGUI"
+jButtonQueryQueries*
+2
+1*Â
+1N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaè	 è(ü
+ú
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaè	 è(
+%12javax.swing.JButton"__id*(*&
+gui.MainGUI"
+jButtonQueryQueries"n
+N
+BC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/gui/MainGUI.javaè è(
+
+%12javax.swing.JButtonB
+gui.MainGUI

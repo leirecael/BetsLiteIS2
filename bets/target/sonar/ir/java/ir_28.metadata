@@ -1,0 +1,5 @@
+dataAccess.DataAccess#apustuAnitzaSortu(Ldomain/Registered;Ljava/util/List;Ljava/lang/Double;)Ldomain/ApustuAnitza;
+domain.ApustuAnitza#instance-init#
+domain.ApustuAnitza#<init>(Ldomain/Registered;Ljava/lang/Double;)V
+domain.Apustua#<init>(Ldomain/ApustuAnitza;Ldomain/Quote;)V
+domain.Apustua#instance-init#

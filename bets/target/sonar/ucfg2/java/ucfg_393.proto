@@ -1,0 +1,93 @@
+
+.domain.Registered#toString()Ljava/lang/String;T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java© ©("3*í
+
+2T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java«
+ «(ÊÇ
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java«
+ «(
+%2java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
+domain.Registered2getUsername()œ
+™
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java«
+ «("
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+ 
+š
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java«
+ «(0
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""
+š
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java«
+ «(6
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+:  
+
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java«9 «(J
+%6java.lang.Double"__id*'*%
+domain.Registered"
+irabazitakoa¯
+¬
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java«
+ «(J
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Double
+›
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java«
+ «(P
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+ï¿½"p
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java« «(Q
+
+%8java.lang.String*Û
+3T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaª ª(	˜
+•
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaª ª(
+%0java.lang.String"__id**
+domain.Registered"
+modeÜÙ
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.javaª ª(#
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+RankingGUI2equals(Ljava/lang/Object;)*
+2
+1*˜
+1T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java­
+ ­(ÊÇ
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java­
+ ­(
+%9java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
+domain.Registered2getUsername()"p
+T
+HC:/Users/Leire/git/BetsLiteIS2/bets/src/main/java/domain/Registered.java­ ­(
+
+%9java.lang.StringB
+domain.Registered

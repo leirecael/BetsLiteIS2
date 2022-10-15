@@ -1,0 +1,2 @@
+dataAccess.DataAccess#apustuaJarraitzaileeiEgin(Ldomain/Registered;Ljava/util/List;Ldomain/ApustuAnitza;Ljava/lang/Double;Ljava/lang/Integer;)V
+java.lang.Integer#equals(Ljava/lang/Object;)Z
