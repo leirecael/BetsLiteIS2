@@ -16,6 +16,7 @@ import java.util.Vector;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
+import javax.persistence.Query;
 import javax.persistence.TypedQuery;
 
 import configuration.ConfigXML;
@@ -1036,46 +1037,19 @@ public void open(boolean initializeMode){
 		}
 	}
 	
+	/**
+	 * Deletes the event from DB and cascades to all its elements
+	 * @param ev the event to delete
+	 * @return true if at least 1 event was deleted
+	 */
 	public boolean gertaeraEzabatu(Event ev) {
-		Event event  = db.find(Event.class, ev); 
-		boolean resultB = true; 
-		List<Question> listQ = event.getQuestions(); 
-		
-		for(Question q : listQ) {
-			if(q.getResult() == null) {
-				resultB = false; 
-			}
-		}
-		if(!resultB) return false;
-		else if(new Date().compareTo(event.getEventDate())<0) {
-			TypedQuery<Quote> Qquery = db.createQuery("SELECT q FROM Quote q WHERE q.getQuestion().getEvent().getEventNumber() =?1", Quote.class);
-			Qquery.setParameter(1, event.getEventNumber()); 
-			List<Quote> listQUO = Qquery.getResultList();
-			for(int j=0; j<listQUO.size(); j++) {
-				Quote quo = db.find(Quote.class, listQUO.get(j));
-				for(int i=0; i<quo.getApustuak().size(); i++) {
-					ApustuAnitza apustuAnitza = quo.getApustuak().get(i).getApustuAnitza();
-					ApustuAnitza ap1 = db.find(ApustuAnitza.class, apustuAnitza.getApustuAnitzaNumber());
-					db.getTransaction().begin();
-					ap1.removeApustua(quo.getApustuak().get(i));
-					db.getTransaction().commit();
-					if(ap1.getApustuak().isEmpty() && !ap1.getEgoera().equals("galduta")) {
-						this.apustuaEzabatu(ap1.getUser(), ap1);
-					}else if(!ap1.getApustuak().isEmpty() && ap1.irabazitaMarkatu()){
-						this.ApustuaIrabazi(ap1);
-					}
-					db.getTransaction().begin();
-					Sport spo =quo.getQuestion().getEvent().getSport();
-					spo.setApustuKantitatea(spo.getApustuKantitatea()-1);
-					db.getTransaction().commit();
-				}
-			}
-			
-		}
+		Event evDB = db.find(Event.class, ev.getEventNumber());
 		db.getTransaction().begin();
-		db.remove(event);
+		Query q1 = db.createQuery("DELETE FROM Event e WHERE e.eventNumber = ?1");
+		q1.setParameter(1, evDB.getEventNumber());
+		int amount = q1.executeUpdate();
 		db.getTransaction().commit();
-		return true; 
+		return amount > 0;
 	}
 	
 	public String saldoaBistaratu(Registered u) {
