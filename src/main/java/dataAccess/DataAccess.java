@@ -1097,8 +1097,8 @@ public void open(boolean initializeMode){
 			gertKopiatu.setSport(gertaera.getSport());
 			gertaera.getSport().addEvent(gertKopiatu);
 			db.persist(gertKopiatu);
-			galderakKopiatu(gertaera, gertKopiatu);
 			db.getTransaction().commit();
+			galderakKopiatu(gertaera, gertKopiatu);
 			return true;
 		}	
 		return false;
