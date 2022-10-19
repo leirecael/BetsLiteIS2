@@ -87,7 +87,7 @@ public class gertaeralKopiatuDAWTest {
 			System.out.println(ev.getEventDate());
 			boolean b = sut.gertaerakKopiatu(ev, ev.getEventDate());
 			assertFalse(b);
-			if (!b) {
+			if (b) {
 				testDA = new TestDataAccess();
 				testDA.open();
 				Event ev2 = testDA.getEvent(ev.getEventDate(), ev.getDescription());
