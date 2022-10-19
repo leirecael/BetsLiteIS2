@@ -1,0 +1,76 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-10-18 18:42:57 #1 store] 
+Database 'C:\Users\Leire\git\BetsLiteIS2\src\main\resources\bets.temp' has been recovered (tr. 5016-5451)
+
+[2022-10-18 18:42:57 #2 store] 
+Database 'C:\Users\Leire\git\BetsLiteIS2\src\main\resources\bets.temp' is opened by 6132@DESKTOP-7BEFLBH
+
+[2022-10-18 18:42:57 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-10-18 18:42:57 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-10-18 18:42:57 #5 type] 
+Type domain.Registered is not enhanced.
+
+[2022-10-18 18:42:57 #6 type] 
+Type domain.Sport is not enhanced.
+
+[2022-10-18 18:42:57 #7 type] 
+Type domain.Question is not enhanced.
+
+[2022-10-18 18:42:57 #8 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-10-18 18:42:57 #9 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-10-18 18:42:57 #10 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-10-18 18:42:57 #11 type] 
+Type domain.Quote is not enhanced.
+
+[2022-10-18 18:42:57 #12 type] 
+Type domain.Apustua is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-10-18 18:43:39 #1 store] 
+Database 'C:\Users\Leire\git\BetsLiteIS2\src\main\resources\bets.temp' has been recovered (tr. 5452-5887)
+
+[2022-10-18 18:43:40 #2 store] 
+Database 'C:\Users\Leire\git\BetsLiteIS2\src\main\resources\bets.temp' is opened by 12856@DESKTOP-7BEFLBH
+
+[2022-10-18 18:43:40 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-10-18 18:43:40 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-10-18 18:43:40 #5 type] 
+Type domain.Registered is not enhanced.
+
+[2022-10-18 18:43:40 #6 type] 
+Type domain.Sport is not enhanced.
+
+[2022-10-18 18:43:40 #7 type] 
+Type domain.Question is not enhanced.
+
+[2022-10-18 18:43:40 #8 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-10-18 18:43:40 #9 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-10-18 18:43:40 #10 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-10-18 18:43:40 #11 type] 
+Type domain.Quote is not enhanced.
+
+[2022-10-18 18:43:40 #12 type] 
+Type domain.Apustua is not enhanced.
+

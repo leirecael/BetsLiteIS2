@@ -188,3 +188,41 @@ Type domain.Quote is not enhanced.
 [2022-10-15 17:55:50 #12 type] 
 Type domain.Apustua is not enhanced.
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-10-15 19:32:14 #1 store] 
+Database 'C:\Users\Leire\git\BetsLiteIS2\src\main\resources\bets.temp' has been recovered (tr. 4580-5015)
+
+[2022-10-15 19:32:14 #2 store] 
+Database 'C:\Users\Leire\git\BetsLiteIS2\src\main\resources\bets.temp' is opened by 8884@DESKTOP-7BEFLBH
+
+[2022-10-15 19:32:14 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-10-15 19:32:14 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-10-15 19:32:14 #5 type] 
+Type domain.Registered is not enhanced.
+
+[2022-10-15 19:32:14 #6 type] 
+Type domain.Sport is not enhanced.
+
+[2022-10-15 19:32:14 #7 type] 
+Type domain.Question is not enhanced.
+
+[2022-10-15 19:32:14 #8 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-10-15 19:32:14 #9 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-10-15 19:32:14 #10 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-10-15 19:32:14 #11 type] 
+Type domain.Quote is not enhanced.
+
+[2022-10-15 19:32:14 #12 type] 
+Type domain.Apustua is not enhanced.
+
