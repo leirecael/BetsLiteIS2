@@ -29,7 +29,7 @@ public class GertaerakSortuMockIntTest {
 
 	BLFacade sut=new BLFacadeImplementation(dataAccess);
 	
-	/*@Test
+	@Test
 	//sut.gertaerakSortu:  Deporte incorrecto, tiene que dar false
 	public void test1() {
 		String description = "Real Madrid-Barcelona";
@@ -192,7 +192,7 @@ public class GertaerakSortuMockIntTest {
 			fail();
 		}
 		
-	}*/
+	}
 	
 	
 	

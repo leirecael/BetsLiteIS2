@@ -12,14 +12,16 @@ import java.util.Date;
 import org.junit.Test;
 
 
-import dataAccess.DataAccess;
+
+import dataAccess.DataAccessGertaerakSortu;
 import domain.Event;
 
 
-public class GertaerakSortuDAWTest {
 
+public class GertaerakSortuDAB2 {
+	
 	//sut:system under test
-	 static DataAccess sut=new DataAccess();
+	 static DataAccessGertaerakSortu sut=new DataAccessGertaerakSortu();
 	 
 	 //additional operations needed to execute the test 
 	 static TestDataAccess testDA=new TestDataAccess();
@@ -35,6 +37,7 @@ public class GertaerakSortuDAWTest {
 		try {
 			eventDate = sdf.parse("30/10/2022");
 		} catch (ParseException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
@@ -75,6 +78,7 @@ public class GertaerakSortuDAWTest {
 		try {
 			eventDate = sdf.parse("30/10/2022");
 		} catch (ParseException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		try {	
@@ -110,67 +114,10 @@ public class GertaerakSortuDAWTest {
 		}
 	}
 	
-	@Test
-	//sut.gertaerakSortu:  Tiene que meter el evento en la BD, en esa fecha hay otro evento 
-	public void test3() {
-		String description1 = "Real Madrid-Barcelona";
-		String description2 = "Eibar-Barcelona";
-		String sport = "Futbol";
-		boolean resp1;
-		boolean resp2;
-		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-		Date eventDate=null;;
-		try {
-			eventDate = sdf.parse("30/11/2022");
-		} catch (ParseException e) {
-			e.printStackTrace();
-		}
-		try {	
-			//invoke System Under Test (sut) twice different
-			sut.open(true);
-			resp1 = sut.gertaerakSortu(description1, eventDate, sport);
-			resp2 = sut.gertaerakSortu(description2, eventDate, sport);
-			sut.close();
-			
-			//verify the results
-			assertTrue(resp1);
-			assertTrue(resp2);
-			testDA.open();
-			Event ev1 = testDA.getEvent(eventDate, description1);
-			Event ev2 = testDA.getEvent(eventDate, description2);
-			testDA.close();
-			assertEquals(ev1.getDescription(),description1);
-			assertEquals(ev1.getEventDate(),eventDate);
-			assertEquals(ev1.getSport().getIzena(),sport);
-			assertEquals(ev2.getDescription(),description2);
-			assertEquals(ev2.getEventDate(),eventDate);
-			assertEquals(ev2.getSport().getIzena(),sport);
-			
-			//event IS in database
-			testDA.open();
-			boolean exists1 = testDA.eventExists(eventDate, description1);
-			boolean exists2 = testDA.eventExists(eventDate, description1);
-			testDA.close();
-			assertTrue(exists1);
-			assertTrue(exists2);
-			
-			
-			
-		} catch(Exception e) {
-			fail();
-		} finally {
-			//Remove the created objects in the database (cascade removing)
-			testDA.open();
-	        boolean b1=testDA.removeEvent(eventDate, description1);
-	        boolean b2=testDA.removeEvent(eventDate, description2);
-	        testDA.close();
-	        System.out.println("Finally "+b1+" and "+b2);
-		}
-	}
 	
-	@Test
+	/*@Test
 	//sut.gertaerakSortu:  Está intentando meter 2 eventos iguales
-	public void test4() {
+	public void test3() {
 		String description = "Real Madrid-Barcelona";
 		String sport = "Futbol";
 		boolean resp1;
@@ -180,6 +127,7 @@ public class GertaerakSortuDAWTest {
 		try {
 			eventDate = sdf.parse("30/11/2022");
 		} catch (ParseException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		try {	
@@ -215,5 +163,6 @@ public class GertaerakSortuDAWTest {
 	        testDA.close();
 	        System.out.println("Finally "+b);
 		}
-	}	
+	}*/
+
 }
