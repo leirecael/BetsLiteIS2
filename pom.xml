@@ -56,6 +56,7 @@
     <sonar.host.url>https://sonarcloud.io</sonar.host.url> 
     <sonar.projectKey>BetsLiteIS2</sonar.projectKey> 
     <sonar.login>aef34fd6289218229d19b5da9f030aae082f1bb9</sonar.login> 
+    <sonar.coverage.jacoco.xmlReportPaths>Test.xml</sonar.coverage.jacoco.xmlReportPaths>
 </properties>
 
 <!-- https://mvnrepository.com/artifact/junit/junit -->
