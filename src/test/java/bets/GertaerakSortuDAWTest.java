@@ -24,7 +24,7 @@ public class GertaerakSortuDAWTest {
 	 //additional operations needed to execute the test 
 	 static TestDataAccess testDA=new TestDataAccess();
 	
-	@Test
+	/*@Test
 	//sut.gertaerakSortu:  Deporte incorrecto, tiene que dar false 
 	public void test1() {
 		String description = "Real Madrid-Barcelona";
@@ -215,5 +215,5 @@ public class GertaerakSortuDAWTest {
 	        testDA.close();
 	        System.out.println("Finally "+b);
 		}
-	}		
+	}*/	
 }
