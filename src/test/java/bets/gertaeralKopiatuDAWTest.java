@@ -54,7 +54,7 @@ public class gertaeralKopiatuDAWTest {
 	@Test
 	public void test1() {
 		sut = new DataAccess();
-		sut.open(false);
+		sut.open(true);
 		Date d = UtilDate.newDate(2070, 2, 2);
 		List<Event> le = sut.getEventsAll();
 		if (le.size() > 0) {
@@ -79,7 +79,7 @@ public class gertaeralKopiatuDAWTest {
 	@Test
 	public void test2() {
 		sut = new DataAccess();
-		sut.open(false);
+		sut.open(true);
 		List<Event> le = sut.getEventsAll();
 		if (le.size() > 0) {
 			ev = le.get(0);
@@ -87,13 +87,7 @@ public class gertaeralKopiatuDAWTest {
 			System.out.println(ev.getEventDate());
 			boolean b = sut.gertaerakKopiatu(ev, ev.getEventDate());
 			assertFalse(b);
-			if (b) {
-				testDA = new TestDataAccess();
-				testDA.open();
-				Event ev2 = testDA.getEvent(ev.getEventDate(), ev.getDescription());
-				testDA.close();
-				sut.gertaeraEzabatu(ev2);
-			}
+			
 		}
 		sut.close();
 	}
