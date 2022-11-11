@@ -53,6 +53,7 @@ public class RegisteredGUI extends JFrame {
 	private JButton btnNewButton;
 	private JButton btnRank;
 	private JButton btnDestacados;
+	private JButton btnUserTable;
 	
 	/**
 	 * This is the default constructor
@@ -111,6 +112,20 @@ public class RegisteredGUI extends JFrame {
 			jContentPane.add(getJButtonDesLogin());
 			jContentPane.add(getBtnRank());
 			jContentPane.add(getBtnDestacados());
+			
+			btnUserTable = new JButton(ResourceBundle.getBundle("Etiquetas").getString("RegisteredGUI.btnUserTable.text")); //$NON-NLS-1$ //$NON-NLS-2$
+			btnUserTable.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent e) {
+					JFrame a = new WindowTable(user);
+					a.setVisible(true);
+					thisw.setVisible(false);
+				}
+			});
+			btnUserTable.setForeground(Color.DARK_GRAY);
+			btnUserTable.setFont(new Font("Tahoma", Font.PLAIN, 16));
+			btnUserTable.setBackground(Color.PINK);
+			btnUserTable.setBounds(10, 391, 282, 68);
+			jContentPane.add(btnUserTable);
 		}
 		return jContentPane;
 	}
